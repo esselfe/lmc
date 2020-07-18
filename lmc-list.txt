@@ -1,833 +1,847 @@
-
-Argyll-V2.1.1-x86_64-pc-linux-gnu.tar.xz 10195848
-Digest-MD5-2.55-x86_64-pc-linux-gnu.tar.xz 26824
-DirectFB-1.7.7-x86_64-pc-linux-gnu.tar.xz 6712812
-Encode-Locale-1.05-x86_64-pc-linux-gnu.tar.xz 12336
-ExtUtils-CBuilder-0.280230-x86_64-pc-linux-gnu.tar.xz 31460
-ExtUtils-Depends-0.405-x86_64-pc-linux-gnu.tar.xz 17648
-ExtUtils-PkgConfig-1.16-x86_64-pc-linux-gnu.tar.xz 10244
-File-Listing-6.04-x86_64-pc-linux-gnu.tar.xz 9304
-File-Next-1.16-x86_64-pc-linux-gnu.tar.xz 15524
-GConf-3.2.6-x86_64-pc-linux-gnu.tar.xz 1201556
-HTML-Form-6.03-x86_64-pc-linux-gnu.tar.xz 23144
-HTML-Parser-3.72-x86_64-pc-linux-gnu.tar.xz 93988
-HTML-Tagset-3.20-x86_64-pc-linux-gnu.tar.xz 12132
-HTTP-Cache-Transparent-1.4-x86_64-pc-linux-gnu.tar.xz 12672
-HTTP-Cookies-6.01-x86_64-pc-linux-gnu.tar.xz 20876
-HTTP-Daemon-6.01-x86_64-pc-linux-gnu.tar.xz 16652
-HTTP-Date-6.05-x86_64-pc-linux-gnu.tar.xz 11488
-HTTP-Message-6.22-x86_64-pc-linux-gnu.tar.xz 79548
-HTTP-Negotiate-6.01-x86_64-pc-linux-gnu.tar.xz 13504
-Hack-otf-2_020-x86_64-pc-linux-gnu.tar.xz 324248
-Hack-ttf-3.003-x86_64-pc-linux-gnu.tar.xz 382860
-ImageMagick-7.0.10-22-x86_64-pc-linux-gnu.tar.xz 7832912
-LWP-MediaTypes-6.02-x86_64-pc-linux-gnu.tar.xz 19752
-Locale-gettext-1.07-x86_64-pc-linux-gnu.tar.xz 15476
-MIME-Base64-3.15-x86_64-pc-linux-gnu.tar.xz 21564
-Net-HTTP-6.19-x86_64-pc-linux-gnu.tar.xz 26540
-ORBit2-2.14.19-x86_64-pc-linux-gnu.tar.xz 379056
-Parse-Yapp-1.21-x86_64-pc-linux-gnu.tar.xz 97004
-Pod-Coverage-0.23-x86_64-pc-linux-gnu.tar.xz 19192
-Pod-Escapes-1.07-x86_64-pc-linux-gnu.tar.xz 13372
-Pod-Simple-3.30-x86_64-pc-linux-gnu.tar.xz 191312
-SDL-1.2.15-x86_64-pc-linux-gnu.tar.xz 508264
-SDL2-2.0.12-x86_64-pc-linux-gnu.tar.xz 717424
-SDL_Pango-0.1.2-x86_64-pc-linux-gnu.tar.xz 13432
-SDL_gfx-2.0.26-x86_64-pc-linux-gnu.tar.xz 147172
-SDL_image-1.2.12-x86_64-pc-linux-gnu.tar.xz 34688
-SDL_mixer-1.2.12-x86_64-pc-linux-gnu.tar.xz 13130728
-SDL_net-1.2.8-x86_64-pc-linux-gnu.tar.xz 17784
-SDL_sound-1.0.3-x86_64-pc-linux-gnu.tar.xz 105668
-SDL_ttf-2.0.11-x86_64-pc-linux-gnu.tar.xz 21324
-SGMLSpm-1.1-x86_64-pc-linux-gnu.tar.xz 71008
-Sphinx-3.1.1-x86_64-pc-linux-gnu.tar.xz 1723512
-TECkit-2.5.9-x86_64-pc-linux-gnu.tar.xz 350340
-Try-Tiny-0.30-x86_64-pc-linux-gnu.tar.xz 20340
-WWW-RobotRules-6.02-x86_64-pc-linux-gnu.tar.xz 13312
-XML-NamespaceSupport-1.12-x86_64-pc-linux-gnu.tar.xz 13324
-XML-SAX-1.00-x86_64-pc-linux-gnu.tar.xz 47164
-XML-SAX-Base-1.09-x86_64-pc-linux-gnu.tar.xz 25628
-XML-SAX-Expat-0.51-x86_64-pc-linux-gnu.tar.xz 9620
-XML-Simple-2.25-x86_64-pc-linux-gnu.tar.xz 68012
-XOrg-apps-X11R7.x-x86_64-pc-linux-gnu.tar.xz 528
-XOrg-fonts-X11R7.x-x86_64-pc-linux-gnu.tar.xz 528
-XOrg-libs-X11R7.x-x86_64-pc-linux-gnu.tar.xz 528
-XOrg7-X11R7.4-x86_64-pc-linux-gnu.tar.xz 516
-YAML-Syck-1.30-x86_64-pc-linux-gnu.tar.xz 82836
-a52dec-0.7.4-x86_64-pc-linux-gnu.tar.xz 45368
-aalib-1.4rc5-x86_64-pc-linux-gnu.tar.xz 160632
-acpica-unix-20200528-x86_64-pc-linux-gnu.tar.xz 603788
-acpid-2.0.32-x86_64-pc-linux-gnu.tar.xz 53908
-alabaster-0.7.12-x86_64-pc-linux-gnu.tar.xz 23276
-alsa-lib-1.2.3.1-x86_64-pc-linux-gnu.tar.xz 457732
-alsa-utils-1.2.3-x86_64-pc-linux-gnu.tar.xz 1017812
-antiword-0.37-x86_64-pc-linux-gnu.tar.xz 112512
-appres-1.0.5-x86_64-pc-linux-gnu.tar.xz 18216
-apr-1.6.5-x86_64-pc-linux-gnu.tar.xz 290768
-apr-util-1.6.1-x86_64-pc-linux-gnu.tar.xz 155012
-asciidoc-8.6.10-x86_64-pc-linux-gnu.tar.xz 315708
-asciidoctor-2.0.10-x86_64-pc-linux-gnu.tar.xz 226216
-aspell-0.60.8-x86_64-pc-linux-gnu.tar.xz 651820
-aspell-en-2018.04.16-0-x86_64-pc-linux-gnu.tar.xz 1122132
-aspell-fr-0.50-3-x86_64-pc-linux-gnu.tar.xz 4373660
-at-spi2-atk-2.34.2-x86_64-pc-linux-gnu.tar.xz 65912
-at-spi2-core-2.36.0-x86_64-pc-linux-gnu.tar.xz 205984
-atk-2.36.0-x86_64-pc-linux-gnu.tar.xz 308976
-atkmm-2.28.0-x86_64-pc-linux-gnu.tar.xz 649284
-audiofile-0.3.6-x86_64-pc-linux-gnu.tar.xz 144932
-autobook-1.5-x86_64-pc-linux-gnu.tar.xz 266836
-autoconf-archive-2019.01.06-x86_64-pc-linux-gnu.tar.xz 415756
-autoconf-mozilla-2.13-x86_64-pc-linux-gnu.tar.xz 59128
-autogen-5.18.16-x86_64-pc-linux-gnu.tar.xz 609788
-babl-0.1.78-x86_64-pc-linux-gnu.tar.xz 324668
-bdftopcf-1.1-x86_64-pc-linux-gnu.tar.xz 34904
-bind-9.17.2-x86_64-pc-linux-gnu.tar.xz 2034856
-bitmap-1.0.9-x86_64-pc-linux-gnu.tar.xz 72708
-blender-2.83.0-x86_64-pc-linux-gnu.tar.xz 30426580
-blueman-2.1.3-x86_64-pc-linux-gnu.tar.xz 1036188
-bluez-5-54-x86_64-pc-linux-gnu.tar.xz 999976
-boost-1.72.0-x86_64-pc-linux-gnu.tar.xz 18940288
-bridge-utils-1.6-x86_64-pc-linux-gnu.tar.xz 17380
-bubblewrap-0.4.1-x86_64-pc-linux-gnu.tar.xz 30212
-c-ares-1.16.1-x86_64-pc-linux-gnu.tar.xz 188388
-cairo-1.16.0-x86_64-pc-linux-gnu.tar.xz 1962308
-cairomm-1.12.2-x86_64-pc-linux-gnu.tar.xz 563400
-calc-2.12.7.1-x86_64-pc-linux-gnu.tar.xz 1514836
-catdoc-0.95-x86_64-pc-linux-gnu.tar.xz 82264
-cbindgen-0.14.1-x86_64-pc-linux-gnu.tar.xz 1384080
-cdparanoia-III-10.2-x86_64-pc-linux-gnu.tar.xz 85840
-cdrtools-3.02-x86_64-pc-linux-gnu.tar.xz 1290032
-celt051-0.5.1.3-x86_64-pc-linux-gnu.tar.xz 52868
-chkconfig-1.3.30c-x86_64-pc-linux-gnu.tar.xz 96952
-chmlib-0.40-x86_64-pc-linux-gnu.tar.xz 31692
-chrono-0.2.40-x86_64-pc-linux-gnu.tar.xz 19860
-claws-mail-3.17.5-x86_64-pc-linux-gnu.tar.xz 5123148
-clucene-2.3.3.4-x86_64-pc-linux-gnu.tar.xz 752488
-cmake-3.17.3-x86_64-pc-linux-gnu.tar.xz 5972260
-colord-1.4.4-x86_64-pc-linux-gnu.tar.xz 2701616
-compiler-rt-10.0.0-x86_64-pc-linux-gnu.tar.xz 25823444
-confuse-3.2.2-x86_64-pc-linux-gnu.tar.xz 48468
-conky-1.11.5-x86_64-pc-linux-gnu.tar.xz 1040816
-containerd-1.3.3-x86_64-pc-linux-gnu.tar.xz 27874736
-cppunit-1.15.1-x86_64-pc-linux-gnu.tar.xz 522120
-crafty-25.2-x86_64-pc-linux-gnu.tar.xz 127552
-cron-common-0.2-x86_64-pc-linux-gnu.tar.xz 752
-cronie-1.5.5-x86_64-pc-linux-gnu.tar.xz 94564
-cscope-15.9-x86_64-pc-linux-gnu.tar.xz 143536
-ctags-5.8-x86_64-pc-linux-gnu.tar.xz 132504
-cups-2.3.3-x86_64-pc-linux-gnu.tar.xz 5477544
-cups-filters-1.27.5-x86_64-pc-linux-gnu.tar.xz 826304
-curl-7.71.0-x86_64-pc-linux-gnu.tar.xz 1073524
-cyrus-sasl-2.1.27-x86_64-pc-linux-gnu.tar.xz 286044
-cython-0.29.20-x86_64-pc-linux-gnu.tar.xz 1984664
-dbus-glib-0.110-x86_64-pc-linux-gnu.tar.xz 248732
-dconf-0.36.0-x86_64-pc-linux-gnu.tar.xz 107064
-ddrescue-1.25-x86_64-pc-linux-gnu.tar.xz 111592
-desktop-file-utils-0.26-x86_64-pc-linux-gnu.tar.xz 77904
-dev86-0.16.21-x86_64-pc-linux-gnu.tar.xz 250788
-dirsplit-0.3.3-x86_64-pc-linux-gnu.tar.xz 8056
-dnsmasq-2.81-x86_64-pc-linux-gnu.tar.xz 277056
-docbook-dsssl-1.79-x86_64-pc-linux-gnu.tar.xz 234244
-docbook-dsssl-doc-1.79-x86_64-pc-linux-gnu.tar.xz 168304
-docbook-profile-1.1-x86_64-pc-linux-gnu.tar.xz 528
-docbook-sgml-4.5-x86_64-pc-linux-gnu.tar.xz 101948
-docbook-utils-0.6.14-x86_64-pc-linux-gnu.tar.xz 62580
-docbook-xml-4.5-x86_64-pc-linux-gnu.tar.xz 88704
-docbook-xsl-1.79.2-x86_64-pc-linux-gnu.tar.xz 20841248
-docbook2X-0.8.8-x86_64-pc-linux-gnu.tar.xz 241040
-docker-18.09.6-x86_64-pc-linux-gnu.tar.xz 34072048
-docutils-0.16-x86_64-pc-linux-gnu.tar.xz 1312176
-dotconf-1.3-x86_64-pc-linux-gnu.tar.xz 42356
-double-conversion-3.1.5-x86_64-pc-linux-gnu.tar.xz 51928
-doxygen-1.8.18-x86_64-pc-linux-gnu.tar.xz 4916764
-dpkg-1.19.7-x86_64-pc-linux-gnu.tar.xz 2301656
-duc-1.4.4-x86_64-pc-linux-gnu.tar.xz 65716
-dump-0.4b46-x86_64-pc-linux-gnu.tar.xz 116216
-e3-2.82-x86_64-pc-linux-gnu.tar.xz 33116
-editres-1.0.7-x86_64-pc-linux-gnu.tar.xz 52936
-eigen3-3.3.7-x86_64-pc-linux-gnu.tar.xz 974024
-emacs-26.3-x86_64-pc-linux-gnu.tar.xz 44177432
-enchant-2.2.8-x86_64-pc-linux-gnu.tar.xz 67996
-enchant1-1.6.1-x86_64-pc-linux-gnu.tar.xz 70416
-encodings-1.0.5-x86_64-pc-linux-gnu.tar.xz 584336
-enscript-1.6.6-x86_64-pc-linux-gnu.tar.xz 354076
-eog-3.36.3-x86_64-pc-linux-gnu.tar.xz 3482552
-epdfview-0.1.8-x86_64-pc-linux-gnu.tar.xz 117904
-espeak-1.48.04-source-x86_64-pc-linux-gnu.tar.xz 1190076
-exempi-2.5.1-x86_64-pc-linux-gnu.tar.xz 932632
-exfat-utils-1.3.0-x86_64-pc-linux-gnu.tar.xz 49072
-exiv2-0.27.2-x86_64-pc-linux-gnu.tar.xz 1188380
-exo-0.12.11-x86_64-pc-linux-gnu.tar.xz 795316
-faac-1.30-x86_64-pc-linux-gnu.tar.xz 67508
-faad2-2.9.2-x86_64-pc-linux-gnu.tar.xz 242984
-fdk-aac-2.0.1-x86_64-pc-linux-gnu.tar.xz 1418232
-feh-3.4.1-x86_64-pc-linux-gnu.tar.xz 169088
-fetchmail-6.4.8-x86_64-pc-linux-gnu.tar.xz 662040
-ffmpeg-4.3-x86_64-pc-linux-gnu.tar.xz 9747008
-fftw3-3.3.8-x86_64-pc-linux-gnu.tar.xz 2588340
-firefox-77.0.1-x86_64-pc-linux-gnu.tar.xz 49361344
-flac-1.3.3-x86_64-pc-linux-gnu.tar.xz 628072
-flash-plugin-32.0.0.387-x86_64-pc-linux-gnu.tar.xz 4760496
-fltk-1.3.5-x86_64-pc-linux-gnu.tar.xz 1039948
-fluidsynth-2.1.2-x86_64-pc-linux-gnu.tar.xz 874320
-fluxbox-1.3.7-x86_64-pc-linux-gnu.tar.xz 851112
-font-adobe-100dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 6207476
-font-adobe-75dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 5497964
-font-adobe-utopia-100dpi-1.0.4-x86_64-pc-linux-gnu.tar.xz 1488428
-font-adobe-utopia-75dpi-1.0.4-x86_64-pc-linux-gnu.tar.xz 1241288
-font-adobe-utopia-type1-1.0.4-x86_64-pc-linux-gnu.tar.xz 181860
-font-alias-1.0.3-x86_64-pc-linux-gnu.tar.xz 10936
-font-arabic-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 41464
-font-bh-100dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 3807692
-font-bh-75dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 3273376
-font-bh-lucidatypewriter-100dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 877868
-font-bh-lucidatypewriter-75dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 768724
-font-bh-ttf-1.0.3-x86_64-pc-linux-gnu.tar.xz 299480
-font-bh-type1-1.0.3-x86_64-pc-linux-gnu.tar.xz 547192
-font-bitstream-100dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 184860
-font-bitstream-75dpi-1.0.3-x86_64-pc-linux-gnu.tar.xz 164364
-font-bitstream-speedo-1.0.2-x86_64-pc-linux-gnu.tar.xz 245836
-font-bitstream-type1-1.0.3-x86_64-pc-linux-gnu.tar.xz 313016
-font-cronyx-cyrillic-1.0.3-x86_64-pc-linux-gnu.tar.xz 314712
-font-cursor-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 43712
-font-daewoo-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 688884
-font-dec-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 31040
-font-ibm-type1-1.0.3-x86_64-pc-linux-gnu.tar.xz 288616
-font-isas-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 825476
-font-jis-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 564132
-font-micro-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 29648
-font-misc-cyrillic-1.0.3-x86_64-pc-linux-gnu.tar.xz 77812
-font-misc-ethiopic-1.0.3-x86_64-pc-linux-gnu.tar.xz 157240
-font-misc-meltho-1.0.3-x86_64-pc-linux-gnu.tar.xz 761536
-font-misc-misc-1.1.2-x86_64-pc-linux-gnu.tar.xz 3538740
-font-mutt-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 236692
-font-schumacher-misc-1.1.2-x86_64-pc-linux-gnu.tar.xz 182836
-font-screen-cyrillic-1.0.4-x86_64-pc-linux-gnu.tar.xz 20900
-font-sony-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 47648
-font-sun-misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 53836
-font-util-1.3.2-x86_64-pc-linux-gnu.tar.xz 42184
-font-winitzki-cyrillic-1.0.3-x86_64-pc-linux-gnu.tar.xz 16312
-font-xfree86-type1-1.0.4-x86_64-pc-linux-gnu.tar.xz 40576
-fontconfig-2.13.1-x86_64-pc-linux-gnu.tar.xz 453484
-fortune-mod-2.12.0-x86_64-pc-linux-gnu.tar.xz 1499952
-fortune-meanwhile-in-lunar-20071003-x86_64-pc-linux-gnu.tar.xz 12232
-freeglut-3.2.1-x86_64-pc-linux-gnu.tar.xz 192752
-freetype2-2.10.2-x86_64-pc-linux-gnu.tar.xz 1667376
-fribidi-1.0.9-x86_64-pc-linux-gnu.tar.xz 127760
-ftjam-2.5.3rc2-x86_64-pc-linux-gnu.tar.xz 48728
-fuse-3-9.2-x86_64-pc-linux-gnu.tar.xz 657156
-gamin-0.1.10-x86_64-pc-linux-gnu.tar.xz 149664
-gccmakedep-1.0.3-x86_64-pc-linux-gnu.tar.xz 6908
-gdb-9.2-x86_64-pc-linux-gnu.tar.xz 3964956
-gdbm-1.18.1-x86_64-pc-linux-gnu.tar.xz 197084
-gdbus-codegen-2.64.3-x86_64-pc-linux-gnu.tar.xz 62620
-gdk-pixbuf-2.40.0-x86_64-pc-linux-gnu.tar.xz 5143992
-gedit-3.36.2-x86_64-pc-linux-gnu.tar.xz 2436308
-gegl-0.4.24-x86_64-pc-linux-gnu.tar.xz 2223832
-gengetopt-2.23-x86_64-pc-linux-gnu.tar.xz 239180
-gexiv2-0.12.1-x86_64-pc-linux-gnu.tar.xz 73692
-ghostscript-9.52-x86_64-pc-linux-gnu.tar.xz 26953372
-giblib-1.2.4-x86_64-pc-linux-gnu.tar.xz 31468
-giflib-5.2.1-x86_64-pc-linux-gnu.tar.xz 89296
-gimp-2.10.20-x86_64-pc-linux-gnu.tar.xz 22957856
-git-2.27.0-x86_64-pc-linux-gnu.tar.xz 6668244
-gkrellm-2.3.11-x86_64-pc-linux-gnu.tar.xz 597340
-glew-2.1.0-x86_64-pc-linux-gnu.tar.xz 471176
-glfw-3.2.1-x86_64-pc-linux-gnu.tar.xz 162528
-glib-networking-2.64.3-x86_64-pc-linux-gnu.tar.xz 127004
-glibmm-2.64.2-x86_64-pc-linux-gnu.tar.xz 7230204
-glm-0.9.8.5-x86_64-pc-linux-gnu.tar.xz 3144592
-glu-9.0.1-x86_64-pc-linux-gnu.tar.xz 273080
-gnome-autoar-0.2.4-x86_64-pc-linux-gnu.tar.xz 101952
-gnome-calculator-3.36.0-x86_64-pc-linux-gnu.tar.xz 919128
-gnome-common-3.18.0-x86_64-pc-linux-gnu.tar.xz 109084
-gnome-desktop-3.36.4-x86_64-pc-linux-gnu.tar.xz 620824
-gnome-disk-utility-3.36.1-x86_64-pc-linux-gnu.tar.xz 975132
-gnome-doc-utils-0.20.10-x86_64-pc-linux-gnu.tar.xz 351932
-gnome-keyring-3.36.0-x86_64-pc-linux-gnu.tar.xz 2328520
-gnome-mime-data-2.18.0-x86_64-pc-linux-gnu.tar.xz 361096
-gnome-terminal-3.36.2-x86_64-pc-linux-gnu.tar.xz 1481716
-gnome-vfs-2.24.4-x86_64-pc-linux-gnu.tar.xz 1113196
-gnuchess-6.2.7-x86_64-pc-linux-gnu.tar.xz 237084
-gnupg-2.2.20-x86_64-pc-linux-gnu.tar.xz 2445688
-gnutls-3.6.14-x86_64-pc-linux-gnu.tar.xz 2720140
-go-1.14.4-x86_64-pc-linux-gnu.tar.xz 132274188
-go-md2man-2.0.0-x86_64-pc-linux-gnu.tar.xz 1375952
-gobject-introspection-1.64.1-x86_64-pc-linux-gnu.tar.xz 1261244
-googler-4.1-x86_64-pc-linux-gnu.tar.xz 45012
-gparted-1.1.0-x86_64-pc-linux-gnu.tar.xz 1906368
-gpgme-1.13.1-x86_64-pc-linux-gnu.tar.xz 1135660
-gpm-1.20.7-x86_64-pc-linux-gnu.tar.xz 164540
-gptfdisk-1.0.5-x86_64-pc-linux-gnu.tar.xz 179044
-graphite-1.3.14-x86_64-pc-linux-gnu.tar.xz 231616
-graphviz-2.44.0-x86_64-pc-linux-gnu.tar.xz 5417032
-gsettings-desktop-schemas-3.36.1-x86_64-pc-linux-gnu.tar.xz 602916
-gsfonts-20160531-x86_64-pc-linux-gnu.tar.xz 3874924
-gspell-1.8.3-x86_64-pc-linux-gnu.tar.xz 127868
-gst-plugins-bad-1.16.2-x86_64-pc-linux-gnu.tar.xz 3077184
-gst-plugins-base-1.16.2-x86_64-pc-linux-gnu.tar.xz 3541832
-gstreamer-1.16.2-x86_64-pc-linux-gnu.tar.xz 3234844
-gtk+-2-24.32-x86_64-pc-linux-gnu.tar.xz 6725168
-gtk+-3-24.21-x86_64-pc-linux-gnu.tar.xz 15685348
-gtk-doc-1.32-x86_64-pc-linux-gnu.tar.xz 344988
-gtk-vnc-1.0.0-x86_64-pc-linux-gnu.tar.xz 183504
-gtk-xfce-engine-3.2.0-x86_64-pc-linux-gnu.tar.xz 65496
-gtkhtml-4.10.0-x86_64-pc-linux-gnu.tar.xz 756060
-gtkimageview-1.6.4-x86_64-pc-linux-gnu.tar.xz 374344
-gtkmm-2.24.5-x86_64-pc-linux-gnu.tar.xz 10012068
-gtkmm3-3.24.2-x86_64-pc-linux-gnu.tar.xz 13152372
-gtksourceview-4.6.1-x86_64-pc-linux-gnu.tar.xz 863768
-guile-2-2.7-x86_64-pc-linux-gnu.tar.xz 6502228
-guile-3.0.4-x86_64-pc-linux-gnu.tar.xz 7301560
-gvfs-1.44.1-x86_64-pc-linux-gnu.tar.xz 1042832
-harfbuzz-2.6.8-x86_64-pc-linux-gnu.tar.xz 1745192
-help2man-1.47.15-x86_64-pc-linux-gnu.tar.xz 154972
-hexchat-2.14.3-x86_64-pc-linux-gnu.tar.xz 1156644
-hexedit-1.4.2-x86_64-pc-linux-gnu.tar.xz 23544
-hicolor-icon-theme-0.17-x86_64-pc-linux-gnu.tar.xz 9956
-htmldoc-1.9.9-x86_64-pc-linux-gnu.tar.xz 2175888
-htop-2.2.0-x86_64-pc-linux-gnu.tar.xz 91412
-http-parser-2.9.4-x86_64-pc-linux-gnu.tar.xz 22952
-httpd-2.4.43-x86_64-pc-linux-gnu.tar.xz 5527508
-hunspell-1.7.0-x86_64-pc-linux-gnu.tar.xz 289996
-hwloc-2.0.2-x86_64-pc-linux-gnu.tar.xz 2317300
-hyphen-2.8.8-x86_64-pc-linux-gnu.tar.xz 71624
-iceauth-1.0.8-x86_64-pc-linux-gnu.tar.xz 29108
-ico-1.0.5-x86_64-pc-linux-gnu.tar.xz 26272
-icon-naming-utils-0.8.90-x86_64-pc-linux-gnu.tar.xz 16440
-icu-le-hb-1.0.3-x86_64-pc-linux-gnu.tar.xz 38968
-icu4c-67-1-x86_64-pc-linux-gnu.tar.xz 9472308
-iftop-1.0pre4-x86_64-pc-linux-gnu.tar.xz 36208
-ijs-0.35-x86_64-pc-linux-gnu.tar.xz 25432
-imagesize-1.0.0-x86_64-pc-linux-gnu.tar.xz 6208
-imake-1.0.8-x86_64-pc-linux-gnu.tar.xz 45016
-imlib2-1.6.1-x86_64-pc-linux-gnu.tar.xz 564812
-indent-2.2.12-x86_64-pc-linux-gnu.tar.xz 170352
-inotify-tools-3.20.2-x86_64-pc-linux-gnu.tar.xz 144076
-intel-tbb-2020.2-x86_64-pc-linux-gnu.tar.xz 405804
-inxi-3.1.03-1-x86_64-pc-linux-gnu.tar.xz 195644
-iotop-0.6-x86_64-pc-linux-gnu.tar.xz 42940
-ipcalc-0.41-x86_64-pc-linux-gnu.tar.xz 10372
-iperf3-3.7-x86_64-pc-linux-gnu.tar.xz 88448
-isl-0.22.1-x86_64-pc-linux-gnu.tar.xz 1162008
-iso-codes-4.5.0-x86_64-pc-linux-gnu.tar.xz 2774792
-itstool-2.0.6-x86_64-pc-linux-gnu.tar.xz 40344
-iw-5.4-x86_64-pc-linux-gnu.tar.xz 81064
-jack-1.9.12-x86_64-pc-linux-gnu.tar.xz 1814424
-jansson-2.12-x86_64-pc-linux-gnu.tar.xz 39416
-jasper-2.0.16-x86_64-pc-linux-gnu.tar.xz 720540
-jbig2dec-0.18-x86_64-pc-linux-gnu.tar.xz 64236
-jbigkit-2.1-x86_64-pc-linux-gnu.tar.xz 63872
-jemalloc-5.2.1-x86_64-pc-linux-gnu.tar.xz 313048
-jfsutils-1.1.15-x86_64-pc-linux-gnu.tar.xz 200100
-joe-4.6-x86_64-pc-linux-gnu.tar.xz 516412
-jq-1.6-x86_64-pc-linux-gnu.tar.xz 332852
-json-glib-1.4.4-x86_64-pc-linux-gnu.tar.xz 208176
-keyutils-1.5.10-x86_64-pc-linux-gnu.tar.xz 65764
-ladspa_sdk-1.15-x86_64-pc-linux-gnu.tar.xz 40488
-lame-3.100-x86_64-pc-linux-gnu.tar.xz 431408
-lcdf-typetools-2.108-x86_64-pc-linux-gnu.tar.xz 645200
-lcms2-2.11-x86_64-pc-linux-gnu.tar.xz 1432932
-leveldb-1.22-x86_64-pc-linux-gnu.tar.xz 179712
-lftp-4.9.1-x86_64-pc-linux-gnu.tar.xz 864240
-libFS-1.0.7-x86_64-pc-linux-gnu.tar.xz 57908
-libICE-1.0.10-x86_64-pc-linux-gnu.tar.xz 138724
-libIDL-0.8.14-x86_64-pc-linux-gnu.tar.xz 163840
-libSM-1.2.3-x86_64-pc-linux-gnu.tar.xz 100516
-libX11-1.6.7-x86_64-pc-linux-gnu.tar.xz 2850792
-libXScrnSaver-1.2.3-x86_64-pc-linux-gnu.tar.xz 29608
-libXau-1.0.9-x86_64-pc-linux-gnu.tar.xz 31860
-libXaw-1.0.13-x86_64-pc-linux-gnu.tar.xz 455988
-libXcomposite-0.4.5-x86_64-pc-linux-gnu.tar.xz 26460
-libXcursor-1.2.0-x86_64-pc-linux-gnu.tar.xz 47232
-libXdamage-1.1.5-x86_64-pc-linux-gnu.tar.xz 21092
-libXdmcp-1.1.3-x86_64-pc-linux-gnu.tar.xz 61584
-libXext-1.3.4-x86_64-pc-linux-gnu.tar.xz 161324
-libXfixes-5.0.3-x86_64-pc-linux-gnu.tar.xz 27544
-libXfont-1.5.4-x86_64-pc-linux-gnu.tar.xz 169928
-libXfont2-2.0.4-x86_64-pc-linux-gnu.tar.xz 160932
-libXfontcache-1.0.5-x86_64-pc-linux-gnu.tar.xz 16624
-libXft-2.3.3-x86_64-pc-linux-gnu.tar.xz 70076
-libXi-1.7.9-x86_64-pc-linux-gnu.tar.xz 213796
-libXinerama-1.1.4-x86_64-pc-linux-gnu.tar.xz 25248
-libXmu-1.1.3-x86_64-pc-linux-gnu.tar.xz 120984
-libXp-1.0.3-x86_64-pc-linux-gnu.tar.xz 88228
-libXpm-3.5.13-x86_64-pc-linux-gnu.tar.xz 74232
-libXrandr-1.5.2-x86_64-pc-linux-gnu.tar.xz 49456
-libXrender-0.9.10-x86_64-pc-linux-gnu.tar.xz 38888
-libXres-1.2.0-x86_64-pc-linux-gnu.tar.xz 25488
-libXt-1.2.0-x86_64-pc-linux-gnu.tar.xz 741324
-libXtst-1.2.3-x86_64-pc-linux-gnu.tar.xz 61756
-libXv-1.0.11-x86_64-pc-linux-gnu.tar.xz 52040
-libXvMC-1.0.12-x86_64-pc-linux-gnu.tar.xz 42068
-libXxf86dga-1.1.4-x86_64-pc-linux-gnu.tar.xz 31952
-libXxf86misc-1.0.3-x86_64-pc-linux-gnu.tar.xz 19640
-libXxf86vm-1.1.4-x86_64-pc-linux-gnu.tar.xz 31460
-libao-1.2.2-x86_64-pc-linux-gnu.tar.xz 56796
-libarchive-3.4.3-x86_64-pc-linux-gnu.tar.xz 531344
-libart_lgpl-2.3.21-x86_64-pc-linux-gnu.tar.xz 98412
-libass-0.14.0-x86_64-pc-linux-gnu.tar.xz 109592
-libassuan-2.5.3-x86_64-pc-linux-gnu.tar.xz 106632
-libatasmart-0.19-x86_64-pc-linux-gnu.tar.xz 30860
-libblockdev-2.24-1-x86_64-pc-linux-gnu.tar.xz 247312
-libbonobo-2.32.1-x86_64-pc-linux-gnu.tar.xz 975940
-libbonoboui-2.24.5-x86_64-pc-linux-gnu.tar.xz 619912
-libbytesize-2.3-x86_64-pc-linux-gnu.tar.xz 38188
-libcanberra-0.30-x86_64-pc-linux-gnu.tar.xz 105848
-libcap-ng-0.7.10-x86_64-pc-linux-gnu.tar.xz 62368
-libcddb-1.3.2-x86_64-pc-linux-gnu.tar.xz 80740
-libcdio-2.1.0-x86_64-pc-linux-gnu.tar.xz 382088
-libcdio-paranoia-10.2+2.0.0-x86_64-pc-linux-gnu.tar.xz 83724
-libconfig-1.7.2-x86_64-pc-linux-gnu.tar.xz 2464024
-libcroco-0.6.13-x86_64-pc-linux-gnu.tar.xz 213200
-libdatrie-0.2.12-x86_64-pc-linux-gnu.tar.xz 134008
-libdmx-1.1.4-x86_64-pc-linux-gnu.tar.xz 49280
-libdrm-2.4.102-x86_64-pc-linux-gnu.tar.xz 250184
-libdvbpsi-1.3.2-x86_64-pc-linux-gnu.tar.xz 151416
-libdvdcss-1.4.2-x86_64-pc-linux-gnu.tar.xz 164832
-libdvdnav-6.1.0-x86_64-pc-linux-gnu.tar.xz 73744
-libdvdread-6.1.1-x86_64-pc-linux-gnu.tar.xz 114716
-libedit-20191231-3.1-x86_64-pc-linux-gnu.tar.xz 115028
-libepoxy-1.5.4-x86_64-pc-linux-gnu.tar.xz 303872
-libetpan-1.9.3-x86_64-pc-linux-gnu.tar.xz 410532
-libev-4.33-x86_64-pc-linux-gnu.tar.xz 136736
-libevdev-1.9.0-x86_64-pc-linux-gnu.tar.xz 58464
-libevent-2.1.11-x86_64-pc-linux-gnu.tar.xz 390656
-libexif-0.6.22-x86_64-pc-linux-gnu.tar.xz 634328
-libfontenc-1.1.4-x86_64-pc-linux-gnu.tar.xz 32944
-libgd-2.3.0-x86_64-pc-linux-gnu.tar.xz 266048
-libgee-0.20.3-x86_64-pc-linux-gnu.tar.xz 307672
-libglade-2.6.4-x86_64-pc-linux-gnu.tar.xz 118100
-libglvnd-1.3.2-x86_64-pc-linux-gnu.tar.xz 334920
-libgnome-2.32.1-x86_64-pc-linux-gnu.tar.xz 1622656
-libgnome-keyring-3.12.0-x86_64-pc-linux-gnu.tar.xz 300480
-libgnomecanvas-2.30.3-x86_64-pc-linux-gnu.tar.xz 392256
-libgnomeui-2.24.5-x86_64-pc-linux-gnu.tar.xz 1057640
-libgnt-2.14.0-x86_64-pc-linux-gnu.tar.xz 178328
-libgphoto2-2.5.25-x86_64-pc-linux-gnu.tar.xz 1489280
-libgsf-1.14.47-x86_64-pc-linux-gnu.tar.xz 366684
-libgudev-233-x86_64-pc-linux-gnu.tar.xz 42932
-libgusb-0.3.4-x86_64-pc-linux-gnu.tar.xz 45988
-libical-3.0.8-x86_64-pc-linux-gnu.tar.xz 509604
-libid3tag-0.15.1b-x86_64-pc-linux-gnu.tar.xz 60344
-libinput-1.15.6-x86_64-pc-linux-gnu.tar.xz 441888
-libiscsi-1.19.0-x86_64-pc-linux-gnu.tar.xz 131408
-libixion-0.15.0-x86_64-pc-linux-gnu.tar.xz 414252
-libjpeg-turbo-2.0.5-x86_64-pc-linux-gnu.tar.xz 469632
-libksba-1.4.0-x86_64-pc-linux-gnu.tar.xz 156780
-libmad-0.15.1b-x86_64-pc-linux-gnu.tar.xz 73100
-libmcrypt-2.5.8-x86_64-pc-linux-gnu.tar.xz 212760
-libmicrohttpd-0.9.71-x86_64-pc-linux-gnu.tar.xz 217748
-libmng-2.0.3-x86_64-pc-linux-gnu.tar.xz 294208
-libmodplug-0.8.8.5-x86_64-pc-linux-gnu.tar.xz 174692
-libmpcdec-1.2.6-x86_64-pc-linux-gnu.tar.xz 31084
-libmspub-0.1.4-x86_64-pc-linux-gnu.tar.xz 533400
-libmtp-1.1.17-x86_64-pc-linux-gnu.tar.xz 521744
-libmypaint-1.6.1-x86_64-pc-linux-gnu.tar.xz 211740
-libnet-1.1.6-x86_64-pc-linux-gnu.tar.xz 121972
-libnfs-2.0.0-x86_64-pc-linux-gnu.tar.xz 168372
-libnotify-0.7.9-x86_64-pc-linux-gnu.tar.xz 43584
-libnumbertext-1.0.6-x86_64-pc-linux-gnu.tar.xz 486804
-liboauth-1.0.3-x86_64-pc-linux-gnu.tar.xz 40368
-libodfgen-0.1.7-x86_64-pc-linux-gnu.tar.xz 337256
-libogg-1.3.4-x86_64-pc-linux-gnu.tar.xz 207644
-liboil-0.3.17-x86_64-pc-linux-gnu.tar.xz 160392
-libopenraw-0.1.3-x86_64-pc-linux-gnu.tar.xz 318924
-liborcus-0.15.4-x86_64-pc-linux-gnu.tar.xz 808588
-libosinfo-1.7.1-x86_64-pc-linux-gnu.tar.xz 301944
-libpaper-1.1.28-x86_64-pc-linux-gnu.tar.xz 25120
-libpciaccess-0.16-x86_64-pc-linux-gnu.tar.xz 59440
-libpeas-1.26.0-x86_64-pc-linux-gnu.tar.xz 186668
-libpng-1.6.37-x86_64-pc-linux-gnu.tar.xz 331576
-libpsl-0.21.0-x86_64-pc-linux-gnu.tar.xz 100032
-libpthread-stubs-0.4-x86_64-pc-linux-gnu.tar.xz 3336
-libpwquality-1.4.2-x86_64-pc-linux-gnu.tar.xz 92612
-librevenge-0.0.4-x86_64-pc-linux-gnu.tar.xz 666704
-librsvg-2.48.7-x86_64-pc-linux-gnu.tar.xz 14899688
-libsamplerate-0.1.9-x86_64-pc-linux-gnu.tar.xz 993060
-libseccomp-2.4.2-x86_64-pc-linux-gnu.tar.xz 83392
-libsecret-0.20.3-x86_64-pc-linux-gnu.tar.xz 655436
-libshout-2.4.3-x86_64-pc-linux-gnu.tar.xz 67472
-libsigc++2-2.10.3-x86_64-pc-linux-gnu.tar.xz 4319544
-libsndfile-1.0.28-x86_64-pc-linux-gnu.tar.xz 435836
-libsoup-2.70.0-x86_64-pc-linux-gnu.tar.xz 667448
-libspatialaudio-0.3.0-x86_64-pc-linux-gnu.tar.xz 1778668
-libspnav-0.2.3-x86_64-pc-linux-gnu.tar.xz 9200
-libssh-0.9.4-x86_64-pc-linux-gnu.tar.xz 281476
-libssh2-1.9.0-x86_64-pc-linux-gnu.tar.xz 266772
-libtasn1-4.16.0-x86_64-pc-linux-gnu.tar.xz 123804
-libthai-0.1.28-x86_64-pc-linux-gnu.tar.xz 282960
-libtheora-1.1.1-x86_64-pc-linux-gnu.tar.xz 448288
-libtorrent-0.13.8-x86_64-pc-linux-gnu.tar.xz 7924564
-libunique-1.1.6-x86_64-pc-linux-gnu.tar.xz 133520
-libunwind-1.3.1-x86_64-pc-linux-gnu.tar.xz 157644
-libutempter-1.2.0-x86_64-pc-linux-gnu.tar.xz 8636
-libuv-1.37.0-x86_64-pc-linux-gnu.tar.xz 785320
-libva-2.8.0-x86_64-pc-linux-gnu.tar.xz 168228
-libvdpau-1.1.1-x86_64-pc-linux-gnu.tar.xz 70512
-libvirt-6.4.0-x86_64-pc-linux-gnu.tar.xz 8784208
-libvirt-glib-3.0.0-x86_64-pc-linux-gnu.tar.xz 367904
-libvirt-python-6.4.0-x86_64-pc-linux-gnu.tar.xz 241924
-libvisio-0.1.7-x86_64-pc-linux-gnu.tar.xz 735320
-libvncserver-0.9.12-x86_64-pc-linux-gnu.tar.xz 309880
-libvorbis-1.3.6-x86_64-pc-linux-gnu.tar.xz 309500
-libvpx-1.8.2-x86_64-pc-linux-gnu.tar.xz 837396
-libwebp-1.0.3-x86_64-pc-linux-gnu.tar.xz 434004
-libwmf-0.2.12-x86_64-pc-linux-gnu.tar.xz 1984916
-libwnck-2.31.0-x86_64-pc-linux-gnu.tar.xz 457296
-libwpd-0.10.3-x86_64-pc-linux-gnu.tar.xz 1132256
-libwpe-1.6.0-x86_64-pc-linux-gnu.tar.xz 43984
-libwpg-0.3.3-x86_64-pc-linux-gnu.tar.xz 161064
-libwps-0.4.11-x86_64-pc-linux-gnu.tar.xz 1873912
-libwww-perl-6.46-x86_64-pc-linux-gnu.tar.xz 175060
-libx86-1.1-x86_64-pc-linux-gnu.tar.xz 73896
-libxcb-1.14-x86_64-pc-linux-gnu.tar.xz 1062392
-libxdg-basedir-1.2.0-x86_64-pc-linux-gnu.tar.xz 31716
-libxfce4ui-4.14.1-x86_64-pc-linux-gnu.tar.xz 354232
-libxfce4util-4.14.0-x86_64-pc-linux-gnu.tar.xz 171176
-libxkbcommon-0.10.0-x86_64-pc-linux-gnu.tar.xz 162436
-libxkbfile-1.1.0-x86_64-pc-linux-gnu.tar.xz 90244
-libxkbui-1.0.2-x86_64-pc-linux-gnu.tar.xz 11636
-libxml2-2.9.10-x86_64-pc-linux-gnu.tar.xz 2148512
-libxshmfence-1.3-x86_64-pc-linux-gnu.tar.xz 12288
-libxslt-1.1.34-x86_64-pc-linux-gnu.tar.xz 415132
-libzip-1.6.1-x86_64-pc-linux-gnu.tar.xz 217704
-links-2.20.2-x86_64-pc-linux-gnu.tar.xz 2951184
-lld-10.0.0-x86_64-pc-linux-gnu.tar.xz 1611312
-llvm-10.0.0-x86_64-pc-linux-gnu.tar.xz 108675392
-lm_sensors-3.6.0-x86_64-pc-linux-gnu.tar.xz 152012
-lmdb-0.9.24-x86_64-pc-linux-gnu.tar.xz 88972
-lrzsz-0.12.20-x86_64-pc-linux-gnu.tar.xz 86092
-lshw-B.02.18-x86_64-pc-linux-gnu.tar.xz 2085388
-lua-5.3.5-x86_64-pc-linux-gnu.tar.xz 272432
-luajit-2.0.5-x86_64-pc-linux-gnu.tar.xz 403028
-luatex-0.79.1-x86_64-pc-linux-gnu.tar.xz 2528776
-luit-1.1.1-x86_64-pc-linux-gnu.tar.xz 33104
-lxc-3.2.1-x86_64-pc-linux-gnu.tar.xz 2852572
-lxterminal-0.3.2-x86_64-pc-linux-gnu.tar.xz 95272
-lynx-2.8.9rel.1-x86_64-pc-linux-gnu.tar.xz 1791720
-lz4-1.9.2-x86_64-pc-linux-gnu.tar.xz 157324
-lzma-sdk-922-x86_64-pc-linux-gnu.tar.xz 91656
-mailman-2.1.33-x86_64-pc-linux-gnu.tar.xz 4920980
-mailutils-3.9-x86_64-pc-linux-gnu.tar.xz 4729096
-makedepend-1.0.6-x86_64-pc-linux-gnu.tar.xz 30800
-makeself-2.4.0-x86_64-pc-linux-gnu.tar.xz 18492
-mako-1.4.1-x86_64-pc-linux-gnu.tar.xz 29360
-mariadb-10.4.12-x86_64-pc-linux-gnu.tar.xz 88581808
-mc-4.8.24-x86_64-pc-linux-gnu.tar.xz 1871140
-mcrypt-2.6.8-x86_64-pc-linux-gnu.tar.xz 71152
-mdds-1.6.0-x86_64-pc-linux-gnu.tar.xz 349532
-mesa-demos-8.3.0-x86_64-pc-linux-gnu.tar.xz 21972
-mesa-lib-20.1.3-x86_64-pc-linux-gnu.tar.xz 30483932
-mhash-0.9.9.9-x86_64-pc-linux-gnu.tar.xz 112604
-mime-types-9-x86_64-pc-linux-gnu.tar.xz 15000
-minizip-1.2.11-x86_64-pc-linux-gnu.tar.xz 86088
-mkfontdir-1.0.7-x86_64-pc-linux-gnu.tar.xz 14628
-mkfontscale-1.2.1-x86_64-pc-linux-gnu.tar.xz 40888
-mozjs-68.4.2-x86_64-pc-linux-gnu.tar.xz 3994784
-mozjs60-60.8.0-x86_64-pc-linux-gnu.tar.xz 3793068
-mpeg2dec-0.5.1-x86_64-pc-linux-gnu.tar.xz 88740
-mpg123-1.26.1-x86_64-pc-linux-gnu.tar.xz 450156
-mtdev-1.1.5-x86_64-pc-linux-gnu.tar.xz 24968
-mtools-4.0.24-x86_64-pc-linux-gnu.tar.xz 196024
-mutt-1.14.5-x86_64-pc-linux-gnu.tar.xz 1183724
-mypaint-brushes-2.0.2-x86_64-pc-linux-gnu.tar.xz 1492564
-mypaint-brushes-1-3.1-x86_64-pc-linux-gnu.tar.xz 1326892
-nautilus-3.36.3-x86_64-pc-linux-gnu.tar.xz 2274964
-ncdu-1.15.1-x86_64-pc-linux-gnu.tar.xz 48416
-ndctl-68-x86_64-pc-linux-gnu.tar.xz 144084
-neon-0.31.2-x86_64-pc-linux-gnu.tar.xz 259100
-net-tools-1.60-x86_64-pc-linux-gnu.tar.xz 89744
-netcat-0.7.1-x86_64-pc-linux-gnu.tar.xz 43220
-netpbm-10.73.31-x86_64-pc-linux-gnu.tar.xz 1427780
-nettle-3.6-x86_64-pc-linux-gnu.tar.xz 493360
-nghttp2-1.41.0-x86_64-pc-linux-gnu.tar.xz 636024
-nmap-7.80-x86_64-pc-linux-gnu.tar.xz 6482660
-node-14.4.0-x86_64-pc-linux-gnu.tar.xz 18302008
-noto-fonts-2017-09-19-x86_64-pc-linux-gnu.tar.xz 68745056
-npth-1.6-x86_64-pc-linux-gnu.tar.xz 30924
-nspr-4.26-x86_64-pc-linux-gnu.tar.xz 969196
-nss-mdns-0.14.1-x86_64-pc-linux-gnu.tar.xz 17568
-ntp-4.2.8p14-x86_64-pc-linux-gnu.tar.xz 1942488
-nudoku-2.0.0-x86_64-pc-linux-gnu.tar.xz 17200
-numlockx-1.2-x86_64-pc-linux-gnu.tar.xz 9684
-obexftp-0.24.2-Source-x86_64-pc-linux-gnu.tar.xz 107268
-ocaml-4.09.0-x86_64-pc-linux-gnu.tar.xz 84559136
-odt2txt-0.5-x86_64-pc-linux-gnu.tar.xz 12616
-oniguruma-6.9.5_rev1-x86_64-pc-linux-gnu.tar.xz 248592
-openMotif-2.5.0-x86_64-pc-linux-gnu.tar.xz 3254072
-openal-1.20.1-x86_64-pc-linux-gnu.tar.xz 753632
-openexr-2.5.2-x86_64-pc-linux-gnu.tar.xz 8650488
-openh264-1.8.0-x86_64-pc-linux-gnu.tar.xz 489704
-openjade-1.3.2-x86_64-pc-linux-gnu.tar.xz 885000
-openjpeg-1.5.2-x86_64-pc-linux-gnu.tar.xz 316812
-openjpeg-2-3.1-x86_64-pc-linux-gnu.tar.xz 1253432
-openldap-2.4.50-x86_64-pc-linux-gnu.tar.xz 1868432
-openmp-10.0.0-x86_64-pc-linux-gnu.tar.xz 338872
-openmpi-4.0.4-x86_64-pc-linux-gnu.tar.xz 3012548
-openobex-1.7.2-Source-x86_64-pc-linux-gnu.tar.xz 174408
-opensp-1.5.2-x86_64-pc-linux-gnu.tar.xz 983224
-openttd-1.10.2-x86_64-pc-linux-gnu.tar.xz 17347300
-opus-1.3.1-x86_64-pc-linux-gnu.tar.xz 472332
-orc-0.4.31-x86_64-pc-linux-gnu.tar.xz 219152
-osinfo-db-20200515-x86_64-pc-linux-gnu.tar.xz 108468
-osinfo-db-tools-1.7.0-x86_64-pc-linux-gnu.tar.xz 44976
-p11-kit-0.23.20-x86_64-pc-linux-gnu.tar.xz 2487664
-pango-1.44.7-x86_64-pc-linux-gnu.tar.xz 457736
-pangomm-2.42.1-x86_64-pc-linux-gnu.tar.xz 596780
-pavucontrol-3.0-x86_64-pc-linux-gnu.tar.xz 108516
-pax-3.4-x86_64-pc-linux-gnu.tar.xz 64276
-pcre2-10.35-x86_64-pc-linux-gnu.tar.xz 1127700
-php-7.4.7-x86_64-pc-linux-gnu.tar.xz 13770960
-pinentry-1.1.0-x86_64-pc-linux-gnu.tar.xz 161204
-pixman-0.40.0-x86_64-pc-linux-gnu.tar.xz 257172
-pm-utils-1.4.1-x86_64-pc-linux-gnu.tar.xz 96368
-pngquant-2.12.6-x86_64-pc-linux-gnu.tar.xz 58332
-podofo-0.9.6-x86_64-pc-linux-gnu.tar.xz 845180
-polkit-0.116-x86_64-pc-linux-gnu.tar.xz 181628
-poppler-0.88.0-x86_64-pc-linux-gnu.tar.xz 1920580
-poppler-data-0.4.9-x86_64-pc-linux-gnu.tar.xz 1459772
-portaudio-v190600_20161030-x86_64-pc-linux-gnu.tar.xz 196636
-powerline-fonts-2.8.1-x86_64-pc-linux-gnu.tar.xz 4692
-psutils-2.03-x86_64-pc-linux-gnu.tar.xz 34788
-pth-2.0.7-x86_64-pc-linux-gnu.tar.xz 135380
-publicsuffix-list-20180512.65ddeb3-x86_64-pc-linux-gnu.tar.xz 59276
-pulseaudio-13.0-x86_64-pc-linux-gnu.tar.xz 1690052
-python-asn1crypto-1.3.0-x86_64-pc-linux-gnu.tar.xz 159948
-python-babel-2.6.0-x86_64-pc-linux-gnu.tar.xz 4827884
-python-certifi-2019.11.28-x86_64-pc-linux-gnu.tar.xz 143148
-python-cffi-1.14.0-x86_64-pc-linux-gnu.tar.xz 202720
-python-chardet-3.0.4-x86_64-pc-linux-gnu.tar.xz 145356
-python-cryptography-2.8-x86_64-pc-linux-gnu.tar.xz 336788
-python-dbus-1.2.16-x86_64-pc-linux-gnu.tar.xz 134860
-python-dbus-common-1.2.16-x86_64-pc-linux-gnu.tar.xz 35984
-python-distutils-extra-2.38-x86_64-pc-linux-gnu.tar.xz 25188
-python-dnspython-1.16.0-x86_64-pc-linux-gnu.tar.xz 180908
-python-idna-2.7-x86_64-pc-linux-gnu.tar.xz 61864
-python-jinja-2.11.2-x86_64-pc-linux-gnu.tar.xz 193916
-python-lxml-4.5.1-x86_64-pc-linux-gnu.tar.xz 2598320
-python-mako-1.1.3-x86_64-pc-linux-gnu.tar.xz 353428
-python-markupsafe-1.1.1-x86_64-pc-linux-gnu.tar.xz 20968
-python-nose-1.3.7-x86_64-pc-linux-gnu.tar.xz 222028
-python-numpy-1.19.0-x86_64-pc-linux-gnu.tar.xz 4862424
-python-pathlib2-2.3.3-x86_64-pc-linux-gnu.tar.xz 30108
-python-pip-20.1.1-x86_64-pc-linux-gnu.tar.xz 1738924
-python-ply-3.11-x86_64-pc-linux-gnu.tar.xz 122868
-python-pyasn1-0.4.8-x86_64-pc-linux-gnu.tar.xz 118072
-python-pycairo-1.19.1-x86_64-pc-linux-gnu.tar.xz 64724
-python-pycparser-2.20-x86_64-pc-linux-gnu.tar.xz 147964
-python-pycrypto-2.6.1-x86_64-pc-linux-gnu.tar.xz 346388
-python-pycurl-7.43.0.5-x86_64-pc-linux-gnu.tar.xz 106668
-python-pygments-2.6.1-x86_64-pc-linux-gnu.tar.xz 1195136
-python-pygobject-3.36.0-x86_64-pc-linux-gnu.tar.xz 212932
-python-pyopenssl-19.1.0-x86_64-pc-linux-gnu.tar.xz 78404
-python-pyparsing-2.4.6-x86_64-pc-linux-gnu.tar.xz 140200
-python-pytz-2019.3-x86_64-pc-linux-gnu.tar.xz 170244
-python-requests-2.24.0-x86_64-pc-linux-gnu.tar.xz 80888
-python-unidecode-1.1.1-x86_64-pc-linux-gnu.tar.xz 184660
-python-urllib3-1.25.9-x86_64-pc-linux-gnu.tar.xz 161724
-python-yaml-5.3.1-x86_64-pc-linux-gnu.tar.xz 177744
-python2-2.7.18-x86_64-pc-linux-gnu.tar.xz 11632908
-python2-chardet-3.0.4-x86_64-pc-linux-gnu.tar.xz 146908
-python2-configparser-3.5.0-x86_64-pc-linux-gnu.tar.xz 32932
-python2-dbus-1.2.16-x86_64-pc-linux-gnu.tar.xz 134844
-python2-distutils-extra-2.39-x86_64-pc-linux-gnu.tar.xz 25944
-python2-dnspython-1.16.0-x86_64-pc-linux-gnu.tar.xz 180932
-python2-idna-2.7-x86_64-pc-linux-gnu.tar.xz 78584
-python2-ipaddr-2.2.0-x86_64-pc-linux-gnu.tar.xz 21944
-python2-ipy-0.83-x86_64-pc-linux-gnu.tar.xz 27552
-python2-mako-1.1.3-x86_64-pc-linux-gnu.tar.xz 352312
-python2-pip-20.1.1-x86_64-pc-linux-gnu.tar.xz 1754428
-python2-pycairo-1.18.1-x86_64-pc-linux-gnu.tar.xz 64552
-python2-pygments-2.5.2-x86_64-pc-linux-gnu.tar.xz 1208328
-python2-pygobject-3.32.1-x86_64-pc-linux-gnu.tar.xz 211768
-python2-pygobject2-2.28.7-x86_64-pc-linux-gnu.tar.xz 609600
-python2-pyparsing-2.4.6-x86_64-pc-linux-gnu.tar.xz 137316
-python2-requests-2.24.0-x86_64-pc-linux-gnu.tar.xz 81220
-python2-setuptools-45.3.0-x86_64-pc-linux-gnu.tar.xz 539756
-python2-six-1.15.0-x86_64-pc-linux-gnu.tar.xz 21820
-qemu-5.0.0-x86_64-pc-linux-gnu.tar.xz 25139128
-qpdf-10.0.1-x86_64-pc-linux-gnu.tar.xz 1032468
-qt5-5.14.2-x86_64-pc-linux-gnu.tar.xz 61570644
-rarian-0.8.1-x86_64-pc-linux-gnu.tar.xz 123972
-read-edid-3.0.2-x86_64-pc-linux-gnu.tar.xz 16468
-recode-3.7.6-x86_64-pc-linux-gnu.tar.xz 508544
-rest-0.8.1-x86_64-pc-linux-gnu.tar.xz 106528
-rgb-1.0.6-x86_64-pc-linux-gnu.tar.xz 22016
-rinutils-0.2.0-x86_64-pc-linux-gnu.tar.xz 7196
-rrdtool-1.7.2-x86_64-pc-linux-gnu.tar.xz 795092
-rsync-3.2.2-x86_64-pc-linux-gnu.tar.xz 292768
-rtkit-0.13-x86_64-pc-linux-gnu.tar.xz 29684
-rtorrent-0.9.8-x86_64-pc-linux-gnu.tar.xz 552432
-ruby-2.7.1-x86_64-pc-linux-gnu.tar.xz 8814440
-runc-1.0.0-rc90-x86_64-pc-linux-gnu.tar.xz 2409668
-rxvt-unicode-9.22-x86_64-pc-linux-gnu.tar.xz 724608
-samba-4.12.3-x86_64-pc-linux-gnu.tar.xz 13804536
-sbc-1.4-x86_64-pc-linux-gnu.tar.xz 57940
-scons-3.1.2-x86_64-pc-linux-gnu.tar.xz 2977580
-screen-4.8.0-x86_64-pc-linux-gnu.tar.xz 532448
-scrot-1.3-x86_64-pc-linux-gnu.tar.xz 108804
-setserial-2.17-x86_64-pc-linux-gnu.tar.xz 18004
-setxkbmap-1.3.2-x86_64-pc-linux-gnu.tar.xz 28864
-sg3_utils-1.45-x86_64-pc-linux-gnu.tar.xz 890752
-sgml-common-0.6.3-x86_64-pc-linux-gnu.tar.xz 38024
-shared-mime-info-1.15-x86_64-pc-linux-gnu.tar.xz 831520
-showfont-1.0.5-x86_64-pc-linux-gnu.tar.xz 19328
-slang-2.3.2-x86_64-pc-linux-gnu.tar.xz 1128044
-smartmontools-7.1-x86_64-pc-linux-gnu.tar.xz 518752
-smpeg-0.4.5-x86_64-pc-linux-gnu.tar.xz 118380
-snappy-1.1.8-x86_64-pc-linux-gnu.tar.xz 30100
-snowballstemmer-2.0.0-x86_64-pc-linux-gnu.tar.xz 129652
-source-highlight-3.1.9-x86_64-pc-linux-gnu.tar.xz 868280
-sox-14.4.2-x86_64-pc-linux-gnu.tar.xz 425420
-soxr-0.1.3-Source-x86_64-pc-linux-gnu.tar.xz 133596
-spdlog-1.5.0-x86_64-pc-linux-gnu.tar.xz 295488
-speex-1.2.0-x86_64-pc-linux-gnu.tar.xz 478532
-speexdsp-1.2.0-x86_64-pc-linux-gnu.tar.xz 462860
-spice-0.14.3-x86_64-pc-linux-gnu.tar.xz 832212
-spice-gtk-0.38-x86_64-pc-linux-gnu.tar.xz 503012
-spice-protocol-0.14.1-x86_64-pc-linux-gnu.tar.xz 22060
-sqlite-3320300-x86_64-pc-linux-gnu.tar.xz 1033332
-sshfs-3.7.0-x86_64-pc-linux-gnu.tar.xz 34004
-ssmtp-2.64-x86_64-pc-linux-gnu.tar.xz 24164
-startup-notification-0.12-x86_64-pc-linux-gnu.tar.xz 24400
-stfl-0.24-x86_64-pc-linux-gnu.tar.xz 86956
-strace-5.7-x86_64-pc-linux-gnu.tar.xz 860780
-sudo-1.9.1-x86_64-pc-linux-gnu.tar.xz 1032260
-swig-4.0.2-x86_64-pc-linux-gnu.tar.xz 1256912
-syck-0.55-x86_64-pc-linux-gnu.tar.xz 54252
-sysstat-12.3.3-x86_64-pc-linux-gnu.tar.xz 369360
-t1lib-5.1.2-x86_64-pc-linux-gnu.tar.xz 686116
-t1utils-1.41-x86_64-pc-linux-gnu.tar.xz 52308
-taglib-1.11.1-x86_64-pc-linux-gnu.tar.xz 355120
-talloc-2.3.1-x86_64-pc-linux-gnu.tar.xz 83744
-tcl-8.6.10-x86_64-pc-linux-gnu.tar.xz 3708984
-tcpdump-4.9.3-x86_64-pc-linux-gnu.tar.xz 354568
-tdb-1.4.3-x86_64-pc-linux-gnu.tar.xz 80372
-terminus-font-4.48-x86_64-pc-linux-gnu.tar.xz 1011096
-texi2html-5.0-x86_64-pc-linux-gnu.tar.xz 560276
-tiff-4.1.0-x86_64-pc-linux-gnu.tar.xz 772320
-timidity++-2.15.0-x86_64-pc-linux-gnu.tar.xz 538716
-tk-8.6.10-x86_64-pc-linux-gnu.tar.xz 2241656
-tmux-3.1b-x86_64-pc-linux-gnu.tar.xz 361124
-toluapp-1.0.93-x86_64-pc-linux-gnu.tar.xz 66704
-tracker-2.3.4-x86_64-pc-linux-gnu.tar.xz 1128676
-tracker-miners-2.3.3-x86_64-pc-linux-gnu.tar.xz 678436
-transmission-3.00-x86_64-pc-linux-gnu.tar.xz 2173656
-tree-1.8.0-x86_64-pc-linux-gnu.tar.xz 41804
-twm-1.0.11-x86_64-pc-linux-gnu.tar.xz 119332
-twolame-0.4.0-x86_64-pc-linux-gnu.tar.xz 108584
-uchardet-0.0.6-x86_64-pc-linux-gnu.tar.xz 80124
-udisks2-2.9.0-x86_64-pc-linux-gnu.tar.xz 735828
-uhttpmock-0.5.1-x86_64-pc-linux-gnu.tar.xz 69916
-units-2.19-x86_64-pc-linux-gnu.tar.xz 240112
-unrar-5.9.4-x86_64-pc-linux-gnu.tar.xz 225444
-upower-0.99.11-x86_64-pc-linux-gnu.tar.xz 159700
-urw-fonts-1.0.7pre43-x86_64-pc-linux-gnu.tar.xz 3127680
-usbredir-0.8.0-x86_64-pc-linux-gnu.tar.xz 46508
-util-macros-1.19.2-x86_64-pc-linux-gnu.tar.xz 42712
-uudeview-0.5.20-x86_64-pc-linux-gnu.tar.xz 118692
-v4l-utils-1.20.0-x86_64-pc-linux-gnu.tar.xz 997220
-vala-0.48.7-x86_64-pc-linux-gnu.tar.xz 2155480
-valgrind-3.15.0-x86_64-pc-linux-gnu.tar.xz 23992796
-vde2-2.3.2-x86_64-pc-linux-gnu.tar.xz 207588
-virglrenderer-0.8.2-x86_64-pc-linux-gnu.tar.xz 171520
-virt-manager-2.2.1-x86_64-pc-linux-gnu.tar.xz 1064656
-virt-viewer-7.0-x86_64-pc-linux-gnu.tar.xz 321176
-vnstat-2.6-x86_64-pc-linux-gnu.tar.xz 113052
-volume_key-0.3.11-x86_64-pc-linux-gnu.tar.xz 229084
-vorbis-tools-1.4.0-x86_64-pc-linux-gnu.tar.xz 181780
-vsftpd-3.0.3-x86_64-pc-linux-gnu.tar.xz 102864
-vte-0.28.2-x86_64-pc-linux-gnu.tar.xz 645720
-vte3-0.60.3-x86_64-pc-linux-gnu.tar.xz 394548
-wavpack-5.3.0-x86_64-pc-linux-gnu.tar.xz 509580
-wayland-1.18.0-x86_64-pc-linux-gnu.tar.xz 179668
-wayland-protocols-1.20-x86_64-pc-linux-gnu.tar.xz 61612
-weechat-2.8-x86_64-pc-linux-gnu.tar.xz 2321356
-whois-5.5.6-x86_64-pc-linux-gnu.tar.xz 55856
-wireshark-3.2.4-x86_64-pc-linux-gnu.tar.xz 27506928
-wmctrl-1.07-x86_64-pc-linux-gnu.tar.xz 22408
-wpebackend-fdo-1.4.1-x86_64-pc-linux-gnu.tar.xz 21484
-wxGTK-3.0.2.0-x86_64-pc-linux-gnu.tar.xz 20834004
-x11-ssh-askpass-1.2.4.1-x86_64-pc-linux-gnu.tar.xz 24932
-x265-3.4-x86_64-pc-linux-gnu.tar.xz 1578688
-xalan-c-1.11-x86_64-pc-linux-gnu.tar.xz 1125736
-xapian-core-1.4.16-x86_64-pc-linux-gnu.tar.xz 2465564
-xauth-1.1-x86_64-pc-linux-gnu.tar.xz 41988
-xbindkeys-1.8.6-x86_64-pc-linux-gnu.tar.xz 25304
-xbitmaps-1.1.2-x86_64-pc-linux-gnu.tar.xz 31396
-xboard-4.9.1-x86_64-pc-linux-gnu.tar.xz 1195668
-xcalc-1.1.0-x86_64-pc-linux-gnu.tar.xz 39000
-xcb-proto-1.14-x86_64-pc-linux-gnu.tar.xz 266280
-xcb-util-0.4.0-x86_64-pc-linux-gnu.tar.xz 29868
-xcb-util-cursor-0.1.3-x86_64-pc-linux-gnu.tar.xz 24208
-xcb-util-image-0.4.0-x86_64-pc-linux-gnu.tar.xz 34520
-xcb-util-keysyms-0.4.0-x86_64-pc-linux-gnu.tar.xz 20732
-xcb-util-renderutil-0.3.9-x86_64-pc-linux-gnu.tar.xz 23288
-xcb-util-wm-0.4.1-x86_64-pc-linux-gnu.tar.xz 54972
-xclip-0.13-x86_64-pc-linux-gnu.tar.xz 19976
-xclipboard-1.1.3-x86_64-pc-linux-gnu.tar.xz 29176
-xclock-1.0.9-x86_64-pc-linux-gnu.tar.xz 43996
-xcursor-themes-1.0.6-x86_64-pc-linux-gnu.tar.xz 328744
-xcursorgen-1.0.7-x86_64-pc-linux-gnu.tar.xz 21008
-xdg-dbus-proxy-0.1.1-x86_64-pc-linux-gnu.tar.xz 21628
-xdg-utils-1.1.3-x86_64-pc-linux-gnu.tar.xz 64256
-xdpyinfo-1.3.2-x86_64-pc-linux-gnu.tar.xz 32772
-xerces-c-3.2.3-x86_64-pc-linux-gnu.tar.xz 2582792
-xev-1.2.3-x86_64-pc-linux-gnu.tar.xz 26932
-xeyes-1.1.2-x86_64-pc-linux-gnu.tar.xz 23292
-xf86-input-evdev-2.10.6-x86_64-pc-linux-gnu.tar.xz 112640
-xf86-input-keyboard-1.9.0-x86_64-pc-linux-gnu.tar.xz 40872
-xf86-input-libinput-0.30.0-x86_64-pc-linux-gnu.tar.xz 77436
-xf86-input-mouse-1.9.3-x86_64-pc-linux-gnu.tar.xz 67832
-xf86-input-synaptics-1.9.1-x86_64-pc-linux-gnu.tar.xz 189764
-xf86-video-amdgpu-19.1.0-x86_64-pc-linux-gnu.tar.xz 138028
-xf86-video-ati-19.1.0-x86_64-pc-linux-gnu.tar.xz 444808
-xf86-video-chips-1.4.0-x86_64-pc-linux-gnu.tar.xz 83288
-xf86-video-i740-1.4.0-x86_64-pc-linux-gnu.tar.xz 39384
-xf86-video-intel-Release_3.8.1-x86_64-pc-linux-gnu.tar.xz 750716
-xf86-video-mga-2.0.0-x86_64-pc-linux-gnu.tar.xz 104796
-xf86-video-sis-0.12.0-x86_64-pc-linux-gnu.tar.xz 274700
-xf86-video-v4l-0.3.0-x86_64-pc-linux-gnu.tar.xz 26964
-xf86-video-vesa-2.4.0-x86_64-pc-linux-gnu.tar.xz 35200
-xfce4-icon-theme-4.4.3-x86_64-pc-linux-gnu.tar.xz 1354208
-xfce4-terminal-0.8.9.2-x86_64-pc-linux-gnu.tar.xz 536512
-xfconf-4.14.3-x86_64-pc-linux-gnu.tar.xz 240092
-xfontsel-1.0.6-x86_64-pc-linux-gnu.tar.xz 36808
-xhost-1.0.8-x86_64-pc-linux-gnu.tar.xz 26628
-xinetd-2.3.15-x86_64-pc-linux-gnu.tar.xz 108004
-xinit-1.4.1-x86_64-pc-linux-gnu.tar.xz 45860
-xinput-1.6.3-x86_64-pc-linux-gnu.tar.xz 52144
-xkbcomp-1.4.3-x86_64-pc-linux-gnu.tar.xz 107220
-xkbutils-1.0.4-x86_64-pc-linux-gnu.tar.xz 28628
-xkeyboard-config-2.30-x86_64-pc-linux-gnu.tar.xz 629540
-xkill-1.0.5-x86_64-pc-linux-gnu.tar.xz 21252
-xmessage-1.0.5-x86_64-pc-linux-gnu.tar.xz 25160
-xmlrpc-c-1.39.07-x86_64-pc-linux-gnu.tar.xz 2597020
-xmlsec1-1.2.30-x86_64-pc-linux-gnu.tar.xz 740280
-xmlto-0.0.28-x86_64-pc-linux-gnu.tar.xz 40116
-xmltoman-0.4-x86_64-pc-linux-gnu.tar.xz 4996
-xmodmap-1.0.10-x86_64-pc-linux-gnu.tar.xz 35964
-xorg-cf-files-1.0.6-x86_64-pc-linux-gnu.tar.xz 210772
-xorg-docs-1.7.1-x86_64-pc-linux-gnu.tar.xz 307592
-xorg-server-1.20.8-x86_64-pc-linux-gnu.tar.xz 4078824
-xorg-sgml-doctools-1.11-x86_64-pc-linux-gnu.tar.xz 25632
-xorgproto-2020.1-x86_64-pc-linux-gnu.tar.xz 183712
-xprintidle-0.2.2-x86_64-pc-linux-gnu.tar.xz 10572
-xprop-1.2.4-x86_64-pc-linux-gnu.tar.xz 39720
-xrandr-1.5.1-x86_64-pc-linux-gnu.tar.xz 75472
-xrdb-1.2.0-x86_64-pc-linux-gnu.tar.xz 33908
-xset-1.2.4-x86_64-pc-linux-gnu.tar.xz 36448
-xsetroot-1.1.2-x86_64-pc-linux-gnu.tar.xz 22588
-xterm-358-x86_64-pc-linux-gnu.tar.xz 353724
-xtrans-1.4.0-x86_64-pc-linux-gnu.tar.xz 86692
-xxHash-0.7.4-x86_64-pc-linux-gnu.tar.xz 78492
-yajl-2.1.0-x86_64-pc-linux-gnu.tar.xz 43860
-yaml-0.2.4-x86_64-pc-linux-gnu.tar.xz 180712
-yelp-tools-3.32.2-x86_64-pc-linux-gnu.tar.xz 161904
-yelp-xsl-3.36.0-x86_64-pc-linux-gnu.tar.xz 377344
-zfs-utils-0.8.4-x86_64-pc-linux-gnu.tar.xz 4712756
-zile-2.4.14-x86_64-pc-linux-gnu.tar.xz 157968
-zsh-5.8-x86_64-pc-linux-gnu.tar.xz 2857216
-zstd-1.4.5-x86_64-pc-linux-gnu.tar.xz 1195360
-zziplib-0.13.71-x86_64-pc-linux-gnu.tar.xz 234988
+a52dec 0.7.4 45368 163840
+aalib 1.4rc5 160632 737280
+ack v3.3.1 66692 256000
+acpica-unix 20200528 603788 2211840
+acpid 2.0.32 53908 204800
+alabaster 0.7.12 23276 112640
+alsa-lib 1.2.3.1 457732 1976320
+alsa-utils 1.2.3 1017812 2263040
+antiword 0.37 112512 1003520
+appres 1.0.5 18216 71680
+apr 1.6.5 290768 1320960
+apr-util 1.6.1 155012 706560
+Argyll V2.1.1 10195848 117841920
+asciidoc 8.6.10 315708 1566720
+asciidoctor 2.0.10 226216 1351680
+aspell 0.60.8 651820 4126720
+aspell-en 2018.04.16-0 1122132 4413440
+aspell-fr 0.50-3 4373660 17838080
+at 3.2.1 37792 133120
+atk 2.36.0 308976 2816000
+atkmm 2.28.0 649284 5539840
+at-spi2-atk 2.34.2 65912 276480
+at-spi2-core 2.36.0 205984 1474560
+audiofile 0.3.6 144932 460800
+autobook 1.5 266836 2949120
+autoconf-archive 2019.01.06 415756 3799040
+autoconf-mozilla 2.13 59128 542720
+autogen 5.18.16 609788 1914880
+babl 0.1.78 324668 1802240
+bdftopcf 1.1 34904 102400
+bind 9.17.2 2034856 9093120
+bitmap 1.0.9 72708 245760
+blender 2.83.0 30426580 120821760
+blueman 2.1.3 1036188 5027840
+bluez-5 54 999976 4311040
+boost 1.72.0 18940288 245852160
+bridge-utils 1.6 17380 61440
+bubblewrap 0.4.1 30212 92160
+cairo 1.16.0 2006032 9635840
+cairomm 1.12.2 563400 4454400
+calc 2.12.7.1 1514836 8448000
+c-ares 1.16.1 188388 655360
+catdoc 0.95 82264 706560
+cbindgen 0.14.1 1384080 5652480
+cdparanoia III-10.2 85840 368640
+cdrtools 3.02 1290032 5662720
+celt051 0.5.1.3 52868 174080
+chkconfig 1.3.30c 96952 604160
+chmlib 0.40 31692 225280
+chromium 80.0.3987.132 82767272 308357120
+chrono 0.2.40 19860 71680
+claws-mail 3.17.5 5123148 23838720
+clucene 2.3.3.4 752488 3491840
+cmake 3.17.3 5972260 35870720
+colord 1.4.4 2701616 8806400
+compiler-rt 10.0.0 25823444 149483520
+confuse 3.2.2 48468 184320
+conky 1.11.5 1040816 7864320
+containerd 1.3.3 27874736 123668480
+cppunit 1.15.1 522120 6830080
+crafty 25.2 127552 307200
+cron-common 0.2 752 10240
+cronie 1.5.5 94564 348160
+cscope 15.9 143536 768000
+ctags 5.8 132504 358400
+cups 2.3.3 5477544 14551040
+cups-filters 1.27.5 826304 3256320
+curl 7.71.0 1073524 2334720
+cyrus-sasl 2.1.27 286044 1146880
+cython 0.29.20 1984664 9318400
+db 5.3.28 18250944 98170880
+dbus-glib 0.110 248732 1474560
+dconf 0.36.0 107064 624640
+ddrescue 1.25 111592 542720
+desktop-file-utils 0.26 77904 419840
+dev86 0.16.21 250788 993280
+dhcp 4.4.2 1856824 12431360
+Digest-MD5 2.55 26824 92160
+DirectFB 1.7.7 6712812 33310720
+dirsplit 0.3.3 8056 30720
+dnsmasq 2.81 277056 686080
+docbook2X 0.8.8 241040 2017280
+docbook-dsssl 1.79 234244 2908160
+docbook-dsssl-doc 1.79 168304 4454400
+docbook-profile 1.1 528 10240
+docbook-sgml 4.5 101948 1761280
+docbook-utils 0.6.14 62580 348160
+docbook-xml 4.5 88704 2293760
+docbook-xsl 1.79.2 20841248 53483520
+docker 18.09.6 34072048 152862720
+docutils 0.16 1312176 7557120
+dotconf 1.3 42356 204800
+double-conversion 3.1.5 51928 194560
+doxygen 1.8.18 4916764 20213760
+dpkg 1.19.7 2301656 13701120
+duc 1.4.4 65716 225280
+dump 0.4b46 116216 317440
+e3 2.82 33116 112640
+editres 1.0.7 52936 153600
+eigen3 3.3.7 974024 8325120
+emacs 26.3 44177432 156948480
+enchant1 1.6.1 70416 296960
+enchant 2.2.8 67996 245760
+Encode-Locale 1.05 12336 61440
+encodings 1.0.5 584336 737280
+enscript 1.6.6 354076 2078720
+eog 3.36.3 3482552 12963840
+epdfview 0.1.8 117904 460800
+espeak 1.48.04-source 1190076 3440640
+exempi 2.5.1 932632 6410240
+exfat-utils 1.3.0 49072 276480
+exiv2 0.27.2 1188380 5642240
+exo 0.12.11 795316 4986880
+ExtUtils-CBuilder 0.280230 31460 143360
+ExtUtils-Depends 0.405 17648 71680
+ExtUtils-PkgConfig 1.16 10244 61440
+faac 1.30 67508 204800
+faad2 2.9.2 242984 788480
+fdk-aac 2.0.1 1418232 2662400
+feh 3.4.1 169088 460800
+fetchmail 6.4.8 662040 2990080
+ffmpeg 4.3 9747008 33208320
+fftw3 3.3.8 2588340 18872320
+File-Listing 6.04 9304 51200
+File-Next 1.16 15524 71680
+firefox 77.0.1 49361344 183674880
+flac 1.3.3 628072 7086080
+flash-plugin 32.0.0.387 4760496 17377280
+fltk 1.3.5 1039948 4239360
+fluidsynth 2.1.2 874320 1597440
+fluxbox 1.3.7 851112 3973120
+font-adobe-100dpi 1.0.3 6207476 8007680
+font-adobe-75dpi 1.0.3 5497964 7280640
+font-adobe-utopia-100dpi 1.0.4 1488428 2426880
+font-adobe-utopia-75dpi 1.0.4 1241288 2170880
+font-adobe-utopia-type1 1.0.4 181860 512000
+font-alias 1.0.3 10936 51200
+font-arabic-misc 1.0.3 41464 296960
+font-bh-100dpi 1.0.3 3807692 5120000
+font-bh-75dpi 1.0.3 3273376 4577280
+font-bh-lucidatypewriter-100dpi 1.0.3 877868 1751040
+font-bh-lucidatypewriter-75dpi 1.0.3 768724 1638400
+font-bh-ttf 1.0.3 299480 1280000
+font-bh-type1 1.0.3 547192 1433600
+font-bitstream-100dpi 1.0.3 184860 931840
+font-bitstream-75dpi 1.0.3 164364 911360
+font-bitstream-speedo 1.0.2 245836 583680
+font-bitstream-type1 1.0.3 313016 573440
+fontconfig 2.13.1 453484 7106560
+font-cronyx-cyrillic 1.0.3 314712 430080
+font-cursor-misc 1.0.3 43712 1341440
+font-daewoo-misc 1.0.3 688884 1116160
+font-dec-misc 1.0.3 31040 286720
+font-ibm-type1 1.0.3 288616 737280
+font-isas-misc 1.0.3 825476 1228800
+font-jis-misc 1.0.3 564132 901120
+font-micro-misc 1.0.3 29648 286720
+font-misc-cyrillic 1.0.3 77812 143360
+font-misc-ethiopic 1.0.3 157240 952320
+font-misc-meltho 1.0.3 761536 6072320
+font-misc-misc 1.1.2 3538740 4812800
+font-mutt-misc 1.0.3 236692 532480
+font-schumacher-misc 1.1.2 182836 481280
+font-screen-cyrillic 1.0.4 20900 81920
+font-sony-misc 1.0.3 47648 307200
+font-sun-misc 1.0.3 53836 307200
+font-util 1.3.2 42184 317440
+font-winitzki-cyrillic 1.0.3 16312 71680
+font-xfree86-type1 1.0.4 40576 174080
+fortune-meanwhile-in-lunar 20071003 12232 51200
+fortune mod-2.12.0 1499952 4720640
+freeglut 3.2.1 192752 808960
+freetype2 2.10.2 1667376 8755200
+fribidi 1.0.9 127760 655360
+ftjam 2.5.3rc2 48728 163840
+fuse 2.9.9 152056 665600
+fuse-3 9.2 657156 1208320
+gamin 0.1.10 149664 778240
+gccmakedep 1.0.3 6908 20480
+GConf 3.2.6 1201556 9390080
+gcr 3.36.0 1198304 10035200
+gdb 9.2 3964956 19415040
+gdbm 1.18.1 197084 808960
+gdbus-codegen 2.64.3 62620 481280
+gdk-pixbuf 2.40.0 5143992 23848960
+gedit 3.36.2 2436308 17991680
+gegl 0.4.24 2223832 10127360
+gengetopt 2.23 239180 1167360
+gexiv2 0.12.1 73692 440320
+ghostscript 9.52 26953372 76175360
+giblib 1.2.4 31468 174080
+giflib 5.2.1 89296 419840
+gimp 2.10.20 22957856 138424320
+git 2.27.0 6668244 44707840
+gkrellm 2.3.11 597340 2406400
+glew 2.1.0 471176 3799040
+glfw 3.2.1 162528 757760
+glibmm 2.64.2 7230204 52971520
+glib-networking 2.64.3 127004 706560
+glm 0.9.8.5 3144592 13076480
+glu 9.0.1 273080 1423360
+gn 0.1568.c599fdbb 643260 2334720
+gnome-autoar 0.2.4 101952 706560
+gnome-calculator 3.36.0 919128 7331840
+gnome-common 3.18.0 109084 573440
+gnome-desktop 3.36.4 620824 3921920
+gnome-disk-utility 3.36.1 975132 6799360
+gnome-doc-utils 0.20.10 351932 3891200
+gnome-keyring 3.36.0 2328520 16742400
+gnome-mime-data 2.18.0 361096 3768320
+gnome-terminal 3.36.2 1481716 11008000
+gnome-vfs 2.24.4 1113196 9799680
+gnuchess 6.2.7 237084 839680
+gnupg 2.2.20 2445688 11796480
+gnutls 3.6.14 2720140 10393600
+go 1.14.4 132274188 520212480
+gobject-introspection 1.64.1 1261244 14254080
+go-md2man 2.0.0 1375952 2928640
+googler 4.1 45012 174080
+gparted 1.1.0 1906368 8683520
+gpgme 1.13.1 1135660 6860800
+gpm 1.20.7 164540 645120
+gptfdisk 1.0.5 179044 860160
+graphite 1.3.14 231616 716800
+graphviz 2.44.0 5417032 20029440
+gsettings-desktop-schemas 3.36.1 602916 4802560
+gsfonts 20160531 3874924 13281280
+gspell 1.8.3 127868 1003520
+gst-plugins-bad 1.16.2 3077184 23511040
+gst-plugins-base 1.16.2 3541832 34099200
+gstreamer 1.16.2 3234844 33873920
+gtk+-2 24.32 6725168 43991040
+gtk+-3 24.21 15685348 103485440
+gtk-doc 1.32 344988 3696640
+gtkhtml 4.10.0 756060 3717120
+gtkimageview 1.6.4 374344 901120
+gtkmm 2.24.5 10012068 134348800
+gtkmm3 3.24.2 13152372 182128640
+gtksourceview 4.6.1 863768 6400000
+gtk-vnc 1.0.0 183504 1075200
+gtk-xfce-engine 3.2.0 65496 378880
+guile-2 2.7 6502228 53166080
+guile 3.0.4 7301560 58306560
+gvfs 1.44.1 1042832 6410240
+Hack-otf 2_020 324248 675840
+Hack-ttf 3.003 382860 1382400
+harfbuzz 2.6.8 1745192 11898880
+help2man 1.47.15 154972 593920
+hexchat 2.14.3 1156644 5857280
+hexedit 1.4.2 23544 71680
+hicolor-icon-theme 0.17 9956 276480
+htmldoc 1.9.9 2175888 5273600
+HTML-Form 6.03 23144 102400
+HTML-Parser 3.72 93988 266240
+HTML-Tagset 3.20 12132 51200
+htop 2.2.0 91412 245760
+HTTP-Cache-Transparent 1.4 12672 61440
+HTTP-Cookies 6.01 20876 81920
+httpd 2.4.43 5527508 31150080
+HTTP-Daemon 6.01 16652 81920
+HTTP-Date 6.05 11488 61440
+HTTP-Message 6.22 79548 245760
+HTTP-Negotiate 6.01 13504 71680
+http-parser 2.9.4 22952 92160
+hunspell 1.7.0 289996 1034240
+hwloc 2.0.2 2317300 4290560
+hyphen 2.8.8 71624 235520
+iceauth 1.0.8 29108 92160
+ico 1.0.5 26272 112640
+icon-naming-utils 0.8.90 16440 92160
+icu4c 67-1 9472308 39567360
+icu-le-hb 1.0.3 38968 194560
+iftop 1.0pre4 36208 102400
+ijs 0.35 25432 102400
+ImageMagick 7.0.10-22 7832912 20203520
+imagesize 1.0.0 6208 40960
+imake 1.0.8 45016 143360
+imlib2 1.6.1 564812 1576960
+indent 2.2.12 170352 768000
+inotify-tools 3.20.2 144076 808960
+intel-tbb 2020.2 405804 2560000
+inxi 3.1.03-1 195644 778240
+iotop 0.6 42940 174080
+ipcalc 0.41 10372 51200
+iperf3 3.7 88448 286720
+isl 0.22.1 1162008 6656000
+iso-codes 4.5.0 2774792 20193280
+itstool 2.0.6 40344 235520
+iw 5.4 81064 235520
+jack 1.9.12 1814424 26101760
+jansson 2.12 39416 122880
+jasper 2.0.16 720540 4198400
+jbig2dec 0.18 64236 194560
+jbigkit 2.1 63872 337920
+jemalloc 5.2.1 313048 1679360
+jfsutils 1.1.15 200100 1177600
+joe 4.6 516412 2365440
+jq 1.6 332852 1853440
+json-glib 1.4.4 208176 1484800
+keyutils 1.5.10 65764 215040
+ladspa_sdk 1.15 40488 245760
+lame 3.100 431408 1792000
+lcdf-typetools 2.108 645200 3758080
+lcms2 2.11 1432932 2703360
+leveldb 1.22 179712 593920
+lftp 4.9.1 864240 4034560
+libao 1.2.2 56796 286720
+libarchive 3.4.3 531344 1402880
+libart_lgpl 2.3.21 98412 491520
+libass 0.14.0 109592 317440
+libassuan 2.5.3 106632 399360
+libatasmart 0.19 30860 133120
+libblockdev 2.24-1 247312 1853440
+libbonobo 2.32.1 975940 6502400
+libbonoboui 2.24.5 619912 3983360
+libbytesize 2.3 38188 296960
+libcanberra 0.30 106048 604160
+libcap-ng 0.7.10 62368 256000
+libcddb 1.3.2 80740 348160
+libcdio 2.1.0 382088 1843200
+libcdio-paranoia 10.2+2.0.0 83724 256000
+libconfig 1.7.2 2464024 3184640
+libcroco 0.6.13 213200 1669120
+libdatrie 0.2.12 134008 634880
+libdmx 1.1.4 49280 133120
+libdrm 2.4.102 250184 1054720
+libdvbpsi 1.3.2 151416 1136640
+libdvdcss 1.4.2 164832 1146880
+libdvdnav 6.1.0 73744 256000
+libdvdread 6.1.1 114716 471040
+libedit 20191231-3.1 115028 348160
+libepoxy 1.5.4 303872 2949120
+libetpan 1.9.3 410532 2099200
+libev 4.33 136736 276480
+libevdev 1.9.0 58464 286720
+libevent 2.1.11 390656 2150400
+libexif 0.6.22 634328 4382720
+libfontenc 1.1.4 32944 112640
+libFS 1.0.7 57908 256000
+libgd 2.3.0 266048 942080
+libgee 0.20.3 307672 1986560
+libglade 2.6.4 118100 583680
+libglvnd 1.3.2 335240 3983360
+libgnome 2.32.1 1622656 11683840
+libgnomecanvas 2.30.3 392256 2539520
+libgnome-keyring 3.12.0 300480 2068480
+libgnomeui 2.24.5 1057640 8376320
+libgnt 2.14.0 178328 1546240
+libgphoto2 2.5.25 1489280 11069440
+libgsf 1.14.47 366684 2734080
+libgudev 233 42932 419840
+libgusb 0.3.4 45988 317440
+libical 3.0.8 509604 4720640
+libICE 1.0.10 138724 983040
+libid3tag 0.15.1b 60344 317440
+libIDL 0.8.14 163840 757760
+libinput 1.15.6 441888 3205120
+libiscsi 1.19.0 131408 665600
+libixion 0.15.0 414252 1832960
+libjpeg-turbo 2.0.5 469632 2836480
+libksba 1.4.0 156780 522240
+libmad 0.15.1b 73100 225280
+libmcrypt 2.5.8 212760 890880
+libmicrohttpd 0.9.71 217748 870400
+libmng 2.0.3 294208 1576960
+libmodplug 0.8.8.5 174692 450560
+libmpcdec 1.2.6 31084 122880
+libmspub 0.1.4 533400 8407040
+libmtp 1.1.17 521744 5253120
+libmypaint 1.6.1 211740 1259520
+libnet 1.1.6 121972 573440
+libnfs 2.0.0 168372 1157120
+libnotify 0.7.9 43584 460800
+libnumbertext 1.0.6 486804 1955840
+liboauth 1.0.3 40368 133120
+libodfgen 0.1.7 337256 1331200
+libogg 1.3.4 207644 1105920
+liboil 0.3.17 160392 983040
+libopenraw 0.1.3 318924 2170880
+liborcus 0.15.4 808588 4485120
+libosinfo 1.7.1 301944 2160640
+libpaper 1.1.28 25120 112640
+libpciaccess 0.16 59440 215040
+libpeas 1.26.0 186668 1331200
+libpng 1.6.37 331576 942080
+libpsl 0.21.0 100032 552960
+libpthread-stubs 0.4 3336 20480
+libpwquality 1.4.2 92612 614400
+librevenge 0.0.4 666704 9666560
+librsvg 2.48.7 14899688 90798080
+libsamplerate 0.1.9 993060 1689600
+libseccomp 2.4.2 83392 634880
+libsecret 0.20.3 655436 6195200
+libshout 2.4.3 67472 225280
+libsigc++2 2.10.3 4319544 16343040
+libSM 1.2.3 100516 808960
+libsndfile 1.0.28 435836 2283520
+libsoup 2.70.0 667448 5672960
+libspatialaudio 0.3.0 1778668 4259840
+libspnav 0.2.3 9200 51200
+libssh 0.9.4 281476 1024000
+libssh2 1.9.0 266772 819200
+libtasn1 4.16.0 123804 389120
+libthai 0.1.28 282960 1495040
+libtheora 1.1.1 448288 3328000
+libtorrent 0.13.8 7924564 41881600
+libunique 1.1.6 133520 645120
+libunwind 1.3.1 157644 1095680
+libutempter 1.2.0 8636 61440
+libuv 1.37.0 785320 2908160
+libva 2.8.0 168056 901120
+libvdpau 1.1.1 70524 337920
+libvirt 6.4.0 8784208 52193280
+libvirt-glib 3.0.0 367904 4116480
+libvirt-python2 5.8.0 228284 1464320
+libvirt-python 6.4.0 241924 1484800
+libvisio 0.1.7 735320 10147840
+libvncserver 0.9.12 309880 1198080
+libvorbis 1.3.6 309500 1792000
+libvpx 1.8.2 837396 2539520
+libwebp 1.0.3 434004 1597440
+libwmf 0.2.12 1984916 4229120
+libwnck 2.31.0 457296 3799040
+libwpd 0.10.3 1132256 17725440
+libwpe 1.6.0 43984 307200
+libwpg 0.3.3 161064 1710080
+libwps 0.4.11 1873912 23275520
+libwww-perl 6.46 175060 542720
+libX11 1.6.7 2850792 23388160
+libx86 1.1 73896 450560
+libXau 1.0.9 31860 112640
+libXaw 1.0.13 455988 2846720
+libxcb 1.14 1062392 7065600
+libXcomposite 0.4.5 26460 102400
+libXcursor 1.2.0 47232 184320
+libXdamage 1.1.5 21092 81920
+libxdg-basedir 1.2.0 31716 112640
+libXdmcp 1.1.3 61584 389120
+libXext 1.3.4 161324 860160
+libxfce4ui 4.14.1 354232 2560000
+libxfce4util 4.14.0 171176 1218560
+libXfixes 5.0.3 27544 102400
+libXfont 1.5.4 169928 491520
+libXfont2 2.0.4 160932 440320
+libXfontcache 1.0.5 16624 71680
+libXft 2.3.3 70076 215040
+libXi 1.7.9 213796 1126400
+libXinerama 1.1.4 25248 92160
+libxkbcommon 0.10.0 162436 686080
+libxkbfile 1.1.0 90244 276480
+libxkbui 1.0.2 11636 51200
+libxml2 2.9.10 2148512 22067200
+libXmu 1.1.3 120984 788480
+libXp 1.0.3 88228 184320
+libXpm 3.5.13 74232 245760
+libXrandr 1.5.2 49456 184320
+libXrender 0.9.10 38888 153600
+libXres 1.2.0 25488 92160
+libXScrnSaver 1.2.3 29608 102400
+libxshmfence 1.3 12288 61440
+libxslt 1.1.34 415132 2816000
+libXt 1.2.0 741324 5109760
+libXtst 1.2.3 61756 389120
+libXv 1.0.11 52040 163840
+libXvMC 1.0.12 42068 184320
+libXxf86dga 1.1.4 31952 133120
+libXxf86misc 1.0.3 19640 81920
+libXxf86vm 1.1.4 31460 133120
+libzip 1.6.1 217704 532480
+links 2.20.2 2951184 4782080
+lld 10.0.0 1611312 6952960
+llvm 10.0.0 108675392 873144320
+lmdb 0.9.24 88972 542720
+lm_sensors 3.6.0 152012 686080
+Locale-gettext 1.07 15476 71680
+lrzsz 0.12.20 86092 256000
+lshw B.02.18 2085388 10424320
+lua 5.3.5 272432 1546240
+luajit 2.0.5 403028 1996800
+luatex 0.79.1 2528776 8867840
+luit 1.1.1 33104 102400
+LWP-MediaTypes 6.02 19752 102400
+lxc 3.2.1 2852572 11888640
+lxterminal 0.3.2 95272 491520
+lynx 2.8.9rel.1 1791720 7536640
+lz4 1.9.2 130188 542720
+lzma-sdk 922 91656 296960
+mailman 2.1.33 4920980 40550400
+mailutils 3.9 4729096 22568960
+makedepend 1.0.6 30800 92160
+makeself 2.4.0 18492 71680
+mako 1.4.1 29360 92160
+mariadb 10.4.12 88581808 725637120
+mc 4.8.24 1871140 8693760
+mcrypt 2.6.8 71152 245760
+mdds 1.6.0 349532 1320960
+mesa-demos 8.3.0 21932 92160
+mesa-lib 20.1.3 30483932 132843520
+mhash 0.9.9.9 112604 286720
+MIME-Base64 3.15 21564 92160
+mime-types 9 15000 81920
+minizip 1.2.11 86088 368640
+mkfontdir 1.0.7 14628 51200
+mkfontscale 1.2.1 40888 133120
+mozjs60 60.8.0 3793068 13905920
+mozjs 68.4.2 3994784 14673920
+mpeg2dec 0.5.1 88740 307200
+mpg123 1.26.1 450156 1413120
+mtdev 1.1.5 24968 112640
+mtools 4.0.24 196024 542720
+mutt 1.14.5 1183724 6277120
+mypaint-brushes-1 3.1 1326892 2785280
+mypaint-brushes 2.0.2 1492564 3368960
+nautilus 3.36.3 2274964 14571520
+ncdu 1.15.1 48416 122880
+ndctl 68 144084 573440
+neon 0.31.2 259100 1740800
+netcat 0.7.1 43012 143360
+Net-HTTP 6.19 26540 102400
+netpbm 10.73.31 1427780 8509440
+nettle 3.6 493360 1771520
+net-tools 1.60 89744 430080
+nghttp2 1.41.0 636024 2539520
+nmap 7.80 6482660 30289920
+node 14.4.0 18302008 77393920
+noto-fonts 2017-09-19 68745056 320757760
+npth 1.6 30924 112640
+nspr 4.26 969196 3123200
+nss 3.52 2232236 13486080
+nss-mdns 0.14.1 17568 163840
+ntp 4.2.8p14 1942488 5355520
+nudoku 2.0.0 17200 71680
+numlockx 1.2 9684 40960
+obexftp 0.24.2-Source 107268 460800
+ocaml 4.09.0 84559136 365762560
+odt2txt 0.5 12616 51200
+oniguruma 6.9.5_rev1 248592 1331200
+openal 1.20.1 753632 1976320
+openexr 2.5.2 8650488 40919040
+openh264 1.8.0 489704 2877440
+openjade 1.3.2 885000 5324800
+openjpeg 1.5.2 316812 1935360
+openjpeg-2 3.1 1253432 16240640
+openldap 2.4.50 1868432 7587840
+openMotif 2.5.0 3254072 13291520
+openmp 10.0.0 338872 1208320
+openmpi 4.0.4 3012548 11939840
+openobex 1.7.2-Source 174408 1146880
+opensp 1.5.2 983224 4669440
+openttd 1.10.2 17347300 37109760
+opus 1.3.1 472332 2764800
+ORBit2 2.14.19 379056 2529280
+orc 0.4.31 219152 1341440
+osinfo-db 20200515 108468 2836480
+osinfo-db-tools 1.7.0 44976 317440
+p11-kit 0.23.20 2487664 19200000
+pango 1.44.7 457736 2498560
+pangomm 2.42.1 596780 6123520
+Parse-Yapp 1.21 97004 215040
+pavucontrol 3.0 108516 737280
+pax 3.4 64276 163840
+pcre2 10.35 1127700 6952960
+php 7.4.7 13770960 92723200
+pinentry 1.1.0 161204 778240
+pixman 0.40.0 257172 819200
+pm-utils 1.4.1 96368 399360
+pngquant 2.12.6 58332 204800
+Pod-Coverage 0.23 19192 71680
+Pod-Escapes 1.07 13372 61440
+podofo 0.9.6 845180 4894720
+Pod-Simple 3.30 191312 624640
+polkit 0.116 181628 1126400
+poppler 0.88.0 1920580 9717760
+poppler-data 0.4.9 1459772 12277760
+portaudio v190600_20161030 196636 1054720
+powerline-fonts 2.8.1 4692 30720
+psutils 2.03 34788 122880
+pth 2.0.7 135380 471040
+publicsuffix-list 20180512.65ddeb3 59276 225280
+pulseaudio 13.0 1690052 9779200
+python2 2.7.18 11632908 77004800
+python2-chardet 3.0.4 146908 1003520
+python2-configparser 3.5.0 32932 184320
+python2-dbus 1.2.16 134844 839680
+python2-distutils-extra 2.39 25944 133120
+python2-dnspython 1.16.0 180932 1239040
+python2-idna 2.7 78584 655360
+python2-ipaddr 2.2.0 21944 143360
+python2-ipy 0.83 27552 143360
+python2-mako 1.1.3 352312 2150400
+python2-pip 20.1.1 1754428 9789440
+python2-pycairo 1.18.1 64552 337920
+python2-pygments 2.5.2 1208328 6912000
+python2-pygobject2 2.28.7 609600 4546560
+python2-pygobject 3.32.1 211768 911360
+python2-pyparsing 2.4.6 137316 706560
+python2-requests 2.24.0 81220 409600
+python2-setuptools 45.3.0 539756 3420160
+python2-six 1.15.0 21820 102400
+python-asn1crypto 1.3.0 159948 983040
+python-babel 2.6.0 4827884 26470400
+python-certifi 2019.11.28 143148 317440
+python-cffi 1.14.0 202720 860160
+python-chardet 3.0.4 145356 890880
+python-cryptography 2.8 336788 2283520
+python-dbus 1.2.16 134860 798720
+python-dbus-common 1.2.16 35984 143360
+python-distutils-extra 2.38 25188 122880
+python-dnspython 1.16.0 180908 1167360
+python-idna 2.7 61864 522240
+python-jinja 2.11.2 193916 942080
+python-lxml 4.5.1 2598320 31877120
+python-mako 1.1.3 353428 2119680
+python-markupsafe 1.1.1 20968 102400
+python-nose 1.3.7 222028 1095680
+python-numpy 1.19.0 4862424 25477120
+python-pathlib2 2.3.3 30108 133120
+python-pip 20.1.1 1738924 9000960
+python-ply 3.11 122868 573440
+python-pyasn1 0.4.8 118072 768000
+python-pycairo 1.19.1 64724 337920
+python-pycparser 2.20 147964 880640
+python-pycrypto 2.6.1 346388 2293760
+python-pycurl 7.43.0.5 106668 522240
+python-pygments 2.6.1 1195136 6092800
+python-pygobject 3.36.0 212932 921600
+python-pyopenssl 19.1.0 78404 440320
+python-pyparsing 2.4.6 140200 675840
+python-pytz 2019.3 170244 1648640
+python-requests 2.24.0 80888 389120
+python-unidecode 1.1.1 184660 1597440
+python-urllib3 1.25.9 161724 808960
+python-yaml 5.3.1 177744 706560
+qemu 5.0.0 25139128 300062720
+qpdf 10.0.1 1032468 3993600
+qt5 5.14.2 61570644 260659200
+rarian 0.8.1 123972 665600
+re2 2020-06-01 314360 1576960
+read-edid 3.0.2 16468 71680
+recode 3.7.6 508544 3768320
+rest 0.8.1 106528 1003520
+rgb 1.0.6 22016 92160
+rinutils 0.2.0 7196 51200
+rrdtool 1.7.2 795092 3522560
+rsync 3.2.2 292768 583680
+rtkit 0.13 29684 143360
+rtorrent 0.9.8 552432 2037760
+ruby 2.7.1 8814440 57937920
+runc 1.0.0-rc90 2409668 9328640
+rxvt-unicode 9.22 724608 3256320
+samba 4.12.3 13804536 84305920
+sbc 1.4 57940 358400
+scons 3.1.2 2977580 36782080
+screen 4.8.0 532448 1310720
+scrot 1.3 108804 256000
+SDL 1.2.15 508264 2856960
+SDL2 2.0.12 717424 3614720
+SDL_gfx 2.0.26 147172 614400
+SDL_image 1.2.12 34688 102400
+SDL_mixer 1.2.12 13130728 18462720
+SDL_net 1.2.8 17784 71680
+SDL_Pango 0.1.2 13432 61440
+SDL_sound 1.0.3 105668 317440
+SDL_ttf 2.0.11 21324 71680
+setserial 2.17 18004 51200
+setxkbmap 1.3.2 28864 102400
+sg3_utils 1.45 890752 3368960
+sgml-common 0.6.3 38024 256000
+SGMLSpm 1.1 71008 440320
+shared-mime-info 1.15 831520 8591360
+shfmt 3.1.2 2017408 4331520
+showfont 1.0.5 19328 71680
+slang 2.3.2 1128044 8140800
+smartmontools 7.1 518752 2027520
+smpeg 0.4.5 118380 440320
+snappy 1.1.8 30100 122880
+snowballstemmer 2.0.0 129652 1228800
+source-highlight 3.1.9 868280 8089600
+sox 14.4.2 425420 1239040
+soxr 0.1.3-Source 133596 430080
+spdlog 1.5.0 295488 2600960
+speex 1.2.0 478532 1075200
+speexdsp 1.2.0 462860 604160
+Sphinx 3.1.1 1723512 14448640
+spice 0.14.3 832212 4700160
+spice-gtk 0.38 503012 3328000
+spice-protocol 0.14.1 22060 133120
+sqlite 3320300 1033332 3266560
+sshfs 3.7.0 34004 102400
+ssmtp 2.64 24164 71680
+startup-notification 0.12 24400 102400
+stfl 0.24 86956 337920
+strace 5.7 860780 4096000
+sudo 1.9.1 1032260 4659200
+swig 4.0.2 1257192 6512640
+syck 0.55 54252 245760
+sysstat 12.3.3 369360 1812480
+t1lib 5.1.2 686116 1320960
+t1utils 1.41 52308 317440
+taglib 1.11.1 355120 1843200
+talloc 2.3.1 83744 286720
+tcl 8.6.10 3708984 17254400
+tcpdump 4.9.3 354568 1853440
+tdb 1.4.3 80372 296960
+TECkit 2.5.9 350340 2754560
+terminus-font 4.48 1011096 1351680
+texi2html 5.0 560276 6871040
+tiff 4.1.0 772320 3225600
+tightvnc 1.3.10 823836 2416640
+time 1.9 38168 194560
+timidity++ 2.15.0 538716 1566720
+tk 8.6.10 2241656 8212480
+tmux 3.1b 361124 972800
+toluapp 1.0.93 66704 399360
+tracker 2.3.4 1128676 6164480
+tracker-miners 2.3.3 678436 3758080
+transmission 3.00 2173656 13434880
+tree 1.8.0 41804 153600
+Try-Tiny 0.30 20340 71680
+twm 1.0.11 119332 307200
+twolame 0.4.0 108584 399360
+uchardet 0.0.6 80124 481280
+udisks2 2.9.0 735828 7802880
+uhttpmock 0.5.1 69916 532480
+units 2.19 240112 778240
+unrar 5.9.4 225444 1361920
+upower 0.99.11 159700 829440
+urlgrabber 3.10.2 99204 901120
+urw-fonts 1.0.7pre43 3127680 4669440
+usbredir 0.8.0 46508 194560
+util-macros 1.19.2 42712 204800
+uudeview 0.5.20 118692 563200
+v4l-utils 1.20.0 997220 4198400
+vala 0.48.7 2155480 14346240
+valgrind 3.15.0 23992796 103649280
+vde2 2.3.2 207588 1003520
+virglrenderer 0.8.2 171520 522240
+virt-manager 2.2.1 1064656 7434240
+virt-viewer 7.0 321176 1628160
+vnstat 2.6 113052 409600
+volume_key 0.3.11 229084 1259520
+vorbis-tools 1.4.0 181780 860160
+vsftpd 3.0.3 102864 286720
+vte 0.28.2 645720 3368960
+vte3 0.60.3 394548 1863680
+wavpack 5.3.0 509580 972800
+wayland 1.18.0 179668 1116160
+wayland-protocols 1.20 61612 481280
+weechat 2.8 2321356 15882240
+whois 5.5.6 55856 266240
+wireshark 3.2.4 27506928 126218240
+wmctrl 1.07 22408 71680
+wpebackend-fdo 1.4.1 21484 102400
+WWW-RobotRules 6.02 13312 71680
+wxGTK 3.0.2.0 20834004 193812480
+x11-ssh-askpass 1.2.4.1 24932 92160
+x265 3.4 1578688 17244160
+xalan-c 1.11 1125736 8171520
+xapian-core 1.4.16 2465564 12789760
+xauth 1.1 41988 122880
+xbindkeys 1.8.6 25304 81920
+xbitmaps 1.1.2 31396 286720
+xboard 4.9.1 1195668 4495360
+xcalc 1.1.0 39000 153600
+xcb-proto 1.14 266280 1495040
+xcb-util 0.4.0 29868 122880
+xcb-util-cursor 0.1.3 24208 92160
+xcb-util-image 0.4.0 34520 133120
+xcb-util-keysyms 0.4.0 20732 81920
+xcb-util-renderutil 0.3.9 23288 92160
+xcb-util-wm 0.4.1 54972 337920
+xclip 0.13 19976 71680
+xclipboard 1.1.3 29176 112640
+xclock 1.0.9 43996 133120
+xcursorgen 1.0.7 21008 71680
+xcursor-themes 1.0.6 328744 3829760
+xdg-dbus-proxy 0.1.1 21628 71680
+xdg-utils 1.1.3 64256 348160
+xdpyinfo 1.3.2 32772 112640
+xerces-c 3.2.3 2582792 22773760
+xev 1.2.3 26932 92160
+xeyes 1.1.2 23292 81920
+xf86-input-evdev 2.10.6 112640 409600
+xf86-input-keyboard 1.9.0 40872 153600
+xf86-input-libinput 0.30.0 77436 286720
+xf86-input-mouse 1.9.3 67832 235520
+xf86-input-synaptics 1.9.1 189764 727040
+xf86-video-amdgpu 19.1.0 138028 481280
+xf86-video-ati 19.1.0 444808 1710080
+xf86-video-chips 1.4.0 83288 266240
+xf86-video-i740 1.4.0 39384 122880
+xf86-video-intel Release_3.8.1 750716 2549760
+xf86-video-mga 2.0.0 104796 317440
+xf86-video-sis 0.12.0 274700 737280
+xf86-video-v4l 0.3.0 26964 92160
+xf86-video-vesa 2.4.0 35200 122880
+xfce4-icon-theme 4.4.3 1354208 10045440
+xfce4-terminal 0.8.9.2 536512 3235840
+xfconf 4.14.3 240092 1556480
+xfontsel 1.0.6 36808 112640
+xhost 1.0.8 26628 92160
+xinetd 2.3.15 108004 286720
+xinit 1.4.1 45860 153600
+xinput 1.6.3 52144 184320
+xkbcomp 1.4.3 107220 317440
+xkbutils 1.0.4 28628 112640
+xkeyboard-config 2.30 629540 5949440
+xkill 1.0.5 21252 71680
+xmessage 1.0.5 25160 92160
+XML-NamespaceSupport 1.12 13324 61440
+xmlrpc-c 1.39.07 2597020 10598400
+XML-SAX 1.00 47164 184320
+XML-SAX-Base 1.09 25628 215040
+XML-SAX-Expat 0.51 9620 61440
+xmlsec1 1.2.30 740280 5652480
+XML-Simple 2.25 68012 204800
+xmlto 0.0.28 40116 194560
+xmltoman 0.4 4996 30720
+xmodmap 1.0.10 35964 112640
+XOrg7 X11R7.4 516 10240
+XOrg-apps X11R7.x 528 10240
+xorg-cf-files 1.0.6 210772 1443840
+xorg-docs 1.7.1 307592 2406400
+XOrg-fonts X11R7.x 528 10240
+XOrg-libs X11R7.x 528 10240
+xorgproto 2020.1 183712 1474560
+xorg-server 1.20.8 4078824 22272000
+xorg-sgml-doctools 1.11 25632 133120
+xprintidle 0.2.2 10572 51200
+xprop 1.2.4 39720 112640
+xrandr 1.5.1 75472 235520
+xrdb 1.2.0 33908 102400
+xset 1.2.4 36448 112640
+xsetroot 1.1.2 22588 71680
+xterm 358 353724 952320
+xtrans 1.4.0 86692 491520
+xxHash 0.7.4 78492 409600
+yajl 2.1.0 43860 256000
+yaml 0.2.4 180712 1484800
+YAML-Syck 1.30 82836 266240
+yelp-tools 3.32.2 161904 1044480
+yelp-xsl 3.36.0 377344 2713600
+zfs-utils 0.8.4 4712756 17858560
+zile 2.4.14 157968 460800
+zsh 5.8 2857216 13455360
+zstd 1.4.5 1327880 5744640
+zziplib 0.13.71 234988 1187840
