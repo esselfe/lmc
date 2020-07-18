@@ -3,10 +3,10 @@
 # Note that this script is still in alpha stage
 # and has not been fully tested yet
 
-LMC_VERSION="0.1.2"
+LMC_VERSION="0.1.3"
 [ "$1" = "-V" ] && {
-		echo "$LMC_VERSION"
-		exit 0
+	echo "$LMC_VERSION"
+	exit 0
 }
 
 [ -d /etc/lunar ] || {
@@ -38,13 +38,10 @@ LMC_VERSION="0.1.2"
 
 SITE=https://hobby.esselfe.ca
 
-# lmc-list.txt is made of install cache archive filenames and sizes, like
-# xterm-358-x86_64-pc-linux-gnu.tar.xz 353724
+# lmc-list.txt is made of lines describing the module name, the version,
+# the install cache archive size and installed total size, like
+# xterm 358 353724 952320
 wget $SITE/lmc-list.txt -O /tmp/lmc-list.txt
-
-# lmc-mods.txt is made of module names and their version, like
-# xset 1.2.4
-wget $SITE/lmc-mods.txt -O /tmp/lmc-mods.txt
 
 # fetch the archives
 cd /var/cache/lunar
@@ -52,7 +49,7 @@ CNT=0
 CNT_TOTAL=$(wc -l /tmp/lmc-list.txt | awk '{ print $1 }')
 TOTAL_SIZE=0
 STR="0"
-for i in $(awk '{ print $2 }' /tmp/lmc-list.txt); do
+for i in $(awk '{ print $3 }' /tmp/lmc-list.txt); do
 	STR="$STR+$i"
 done
 TOTAL_SIZE=$(echo "scale=1; ($STR)/1000000" | bc)
@@ -60,8 +57,10 @@ SIZE_DONE=0
 echo "Fetching $CNT_TOTAL archives totalling ${TOTAL_SIZE}MB"
 time cat /tmp/lmc-list.txt | while read LINE; do
 #time head -n5 /tmp/lmc-list.txt | while read LINE; do
-	FILE=$(echo "$LINE" | awk '{ print $1 }')
-	SIZE=$(echo "$LINE" | awk '{ print $2 }')
+	MODULE=$(echo "$LINE" | awk '{ print $1 }')
+	VERSION=$(echo "$LINE" | awk '{ print $2 }')
+	FILE="$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz"
+	SIZE=$(echo "$LINE" | awk '{ print $3 }')
 	SIZE_DONE=$((SIZE_DONE+SIZE))
 	SIZE_DONE_H=$(echo "scale=2; $SIZE_DONE/1000000" | bc)
 	echo -n "$((++CNT))/$CNT_TOTAL $SIZE_DONE_H/${TOTAL_SIZE}MB $FILE"
@@ -89,14 +88,17 @@ done
 cd /
 CNT=0
 TOTAL_SIZE=0
-time cat /tmp/lmc-mods.txt | while read LINE; do
-#time head -n5 /tmp/lmc-mods.txt | while read LINE; do
-	MODULE=$(echo $LINE | awk '{ print $1 }')
-	VERSION=$(echo $LINE | awk '{ print $2 }')
-	FILE=/var/cache/lunar/$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz
+time cat /tmp/lmc-list.txt | while read LINE; do
+#time head -n5 /tmp/lmc-list.txt | while read LINE; do
+	MODULE=$(echo "$LINE" | awk '{ print $1 }')
+	VERSION=$(echo "$LINE" | awk '{ print $2 }')
+	FILE=$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz
 	grep "$(basename $FILE)" /tmp/lmc-failed-download.txt &>/dev/null && continue;
-	echo "Extracting $((++CNT))/$CNT_TOTAL $(basename $FILE)"
-	STR=$(tar xf $FILE 2>&1)
+	SIZE=$(echo "$LINE" | awk '{ print $3 }')
+	SIZE_H="$(echo $SIZE/1000 | bc)KB"
+	INSTALLED_SIZE=$(echo "$LINE" | awk '{ print $4 }')
+	echo "Extracting $((++CNT))/$CNT_TOTAL $FILE"
+	STR=$(tar xf /var/cache/lunar/$FILE 2>&1)
 	if [ $? -ne 0 ]; then
 		# might be tar refusing to work with /usr/lib64 as a link
 		echo "Retrying from another directory"
@@ -106,24 +108,20 @@ time cat /tmp/lmc-mods.txt | while read LINE; do
 		RET=$?
 		echo "$STR" | sed '/Removing leading /d'
 		if [ $RET -ne 0 ]; then
-			echo "$MODULE" >> /tmp/lmc-failed-extract.txt
+			echo "$FILE" >> /tmp/lmc-failed-extract.txt
 		else
 			cp -rd * /
-			SIZE=$(xzcat "$FILE" | wc -c)
-			SIZE_H="$(echo $SIZE/1000 | bc)KB"
 			TOTAL_SIZE=$((TOTAL_SIZE+SIZE))
 			echo "$TOTAL_SIZE" >/tmp/lmc-totalsize
 			# mark the module as installed for the Lunar module manager
 			grep "^$MODULE:" /var/state/lunar/packages &>/dev/null ||
-				echo "$MODULE:$(date +%Y%m%d):installed:$VERSION:$SIZE_H" >> /var/state/lunar/packages
+				echo "$MODULE:$(date +%Y%m%d):installed:$VERSION:$SIZE_H" >>/var/state/lunar/packages
 		fi
 		rm -rf *
 		cd /
 	else
 		# remove annoying tar messages
 		echo "$STR" | sed '/Removing leading /d'
-		SIZE=$(xzcat "$FILE" | wc -c)
-		SIZE_H="$(echo $SIZE/1000 | bc)KB"
 		TOTAL_SIZE=$((TOTAL_SIZE+SIZE))
 		echo "$TOTAL_SIZE" >/tmp/lmc-totalsize
 		# mark the module as installed for the Lunar module manager
