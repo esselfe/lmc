@@ -3,7 +3,7 @@
 # Note that this script is still in alpha stage
 # and has not been fully tested yet
 
-LMC_VERSION="0.1.1"
+LMC_VERSION="0.1.2"
 [ "$1" = "-V" ] && {
 		echo "$LMC_VERSION"
 		exit 0
@@ -12,6 +12,28 @@ LMC_VERSION="0.1.1"
 [ -d /etc/lunar ] || {
 	echo "error: this script must be run on a Lunar-Linux system"
 	exit 1
+}
+
+# generate lmc-list.txt
+[ "$1" = "genlist" ] && {
+	echo -n "" >/tmp/lmc-list-tmp.txt
+	for m in $(awk -F: '{ print $1 }' /var/state/lunar/packages); do
+		[ "$m" = "moonbase" -o "$m" = "dejavu-ttf" ] && continue;
+		[ "$m" = "gnome-icon-theme"* -o "$m" = "maven" ] && continue;
+		[ "$m" = "timidity-eawpatches" -o "$m" = "libreoffice-bin" ] && continue;
+		[ "$m" = "man-pages" -o "$m" = "sun-jdk8" ] && continue;
+		grep "^$m:" /var/state/lunar/module.index |
+			grep ":core/" >/dev/null && continue;
+		VERSION="$(lvu installed $m)"
+		FILE=/var/cache/lunar/$m-$VERSION-x86_64-pc-linux-gnu.tar.xz
+		SIZE=$(stat --printf="%s" $FILE)
+		[ $? -ne 0 ] && continue;
+		INSTALLED_SIZE=$(xzcat $FILE | wc -c)
+		echo "$m $VERSION $SIZE $INSTALLED_SIZE" >>/tmp/lmc-list-tmp.txt
+	done
+	sort /tmp/lmc-list-tmp.txt > lmc-list.txt
+	rm /tmp/lmc-list-tmp.txt
+	exit 0
 }
 
 SITE=https://hobby.esselfe.ca
