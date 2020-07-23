@@ -37,7 +37,11 @@ time cat /tmp/lmc-list.txt | while read LINE; do
 #time head -n5 /tmp/lmc-list.txt | while read LINE; do
 	MODULE=$(echo "$LINE" | awk '{ print $1 }')
 	VERSION=$(echo "$LINE" | awk '{ print $2 }')
-	FILE="$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz"
+	if [ "$MODULE" -eq "rustc" ]; then
+		FILE="$MODULE-$VERSION-unknown-linux-gnu.tar.xz"
+	else
+		FILE="$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz"
+	fi
 	SIZE=$(echo "$LINE" | awk '{ print $3 }')
 	SIZE_DONE=$((SIZE_DONE+SIZE))
 	SIZE_DONE_H=$(echo "scale=2; $SIZE_DONE/1000000" | bc)
@@ -70,7 +74,11 @@ time cat /tmp/lmc-list.txt | while read LINE; do
 #time head -n5 /tmp/lmc-list.txt | while read LINE; do
 	MODULE=$(echo "$LINE" | awk '{ print $1 }')
 	VERSION=$(echo "$LINE" | awk '{ print $2 }')
-	FILE=$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz
+	if [ "$MODULE" -eq "rustc" ]; then
+		FILE="$MODULE-$VERSION-unknown-linux-gnu.tar.xz"
+	else
+		FILE="$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz"
+	fi
 	grep "$(basename $FILE)" /tmp/lmc-failed-download.txt &>/dev/null && continue;
 	SIZE=$(echo "$LINE" | awk '{ print $3 }')
 	SIZE_H="$(echo $SIZE/1000 | bc)KB"
