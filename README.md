@@ -1,4 +1,4 @@
-# lunar-install-stage2
+# lmc
 This bash script is for installing a graphical environment installation using Lunar-Linux  
 precompiled install cache archives (generates an unconfigured setup, for now) [64bit only].  
 
