@@ -3,7 +3,7 @@
 # Note that this script is still in alpha stage
 # and has not been fully tested yet
 
-LMC_VERSION="0.1.4"
+LMC_VERSION="0.1.5"
 [ "$1" = "-V" ] && {
 	echo "$LMC_VERSION"
 	exit 0
@@ -37,7 +37,7 @@ time cat /tmp/lmc-list.txt | while read LINE; do
 #time head -n5 /tmp/lmc-list.txt | while read LINE; do
 	MODULE=$(echo "$LINE" | awk '{ print $1 }')
 	VERSION=$(echo "$LINE" | awk '{ print $2 }')
-	if [ "$MODULE" -eq "rustc" ]; then
+	if [ "$MODULE" = "rustc" ]; then
 		FILE="$MODULE-$VERSION-unknown-linux-gnu.tar.xz"
 	else
 		FILE="$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz"
@@ -74,7 +74,7 @@ time cat /tmp/lmc-list.txt | while read LINE; do
 #time head -n5 /tmp/lmc-list.txt | while read LINE; do
 	MODULE=$(echo "$LINE" | awk '{ print $1 }')
 	VERSION=$(echo "$LINE" | awk '{ print $2 }')
-	if [ "$MODULE" -eq "rustc" ]; then
+	if [ "$MODULE" = "rustc" ]; then
 		FILE="$MODULE-$VERSION-unknown-linux-gnu.tar.xz"
 	else
 		FILE="$MODULE-$VERSION-x86_64-pc-linux-gnu.tar.xz"
